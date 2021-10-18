@@ -1,0 +1,15 @@
+{
+    "$schema": "schema.json",
+    "ip2as": "ip2as.prefixes",
+    "as2org": {
+        "as2org": "as2org-file"
+    },
+    "as-rels": {
+        "rels": "rels-file",
+        "cone": "cone-file"
+    },
+    "warts": {
+        "files": "warts.files"
+    },
+    "processes": 3
+}

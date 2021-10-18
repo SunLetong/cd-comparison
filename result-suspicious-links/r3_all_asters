@@ -1,0 +1,1903 @@
+#format:
+#for each link <AS1, AS2>:
+#AS1: organization, country, AS rank
+#AS2: organization, country, AS rank
+#	traceroute path from AS1 to AS2
+#	...
+27986:ENTEL CHILE S.A.,Chile,528
+7049:Silica Networks Argentina S.A.,Argentina,148
+	27986 * * 7049
+262504:Nova Rede de Telecomunicações Ltda,Brazil,4577
+263460:,,
+	262504 ? ? ? 263460
+	262504 ? ? ? ? 263460
+	262504 * * * 263460
+	262504 * * 263460
+	262504 * * * * 263460
+3491:PCCW Global_ Inc.,United States,10
+132721:PING GLOBAL LIMITED,Hong Kong,5358
+	3491 * * 132721
+	3491 ? ? 132721
+	3491 * * * 132721
+38456:SpeedCast Pacific Pty Limited,Australia,1868
+134783:Amalgamated Telecom Holdings Kiribati Ltd,Kiribati,20236
+	38456 ? * ? * ? 134783
+	38456 ? ? ? ? * 134783
+	38456 ? * ? ? ? 134783
+	38456 ? ? * 134783
+	38456 ? ? ? ? ? * 134783
+	38456 ? ? ? ? ? 134783
+	38456 * * 134783
+	38456 ? ? ? * ? * 134783
+	38456 * * * 134783
+	38456 ? ? ? * ? 134783
+	38456 ? ? ? ? 134783
+	38456 * * * * 134783
+4755:Tata Communications Limited,India,39
+26380:MasterCard Technologies LLC,United States,15434
+	4755 ? ? 26380
+59203:Angel Drops Ltd.,Bangladesh,61514
+3:Massachusetts Institute of Technology,United States,1951
+	59203 * * * 3
+28368:SOBRALNET SERVICOS E TELECOMUNICACOES LTDA - ME,Brazil,94
+265108:,,
+	28368 * * 265108
+	28368 ? ? 265108
+	28368 * * * * 265108
+55933:Cloudie Limited,Hong Kong,2089
+328543:Sun Network Company Limited,Seychelles,6779
+	55933 * * 328543
+14754:Telgua,Guatemala,995
+263824:Central TV and Internet Limited,Belize,4789
+	14754 ? ? ? * * 263824
+	14754 * * * 263824
+	14754 * * * * 263824
+20473:Choopa_ LLC,United States,104
+137827:Cygnal Technologies Trading and Services,Philippines,46624
+	20473 * * * 137827
+	20473 ? * 137827
+	20473 * * 137827
+	20473 ? ? * 137827
+38456:SpeedCast Pacific Pty Limited,Australia,1868
+132468:SATSOL LIMITED,Solomon Islands,10294
+	38456 ? ? ? 132468
+	38456 ? ? ? ? * 132468
+	38456 ? ? ? ? ? 132468
+	38456 * * * 132468
+	38456 ? ? ? ? 132468
+	38456 ? ? ? * * 132468
+	38456 * * * * 132468
+135356:CN CARE NETWORK LTD,Hong Kong,7683
+55515:Beijing CNISP Technology Co._ Ltd.,China,70238
+	135356 * * * 55515
+4755:Tata Communications Limited,India,39
+132377:Ellucian Company L.P.,United States,61514
+	4755 * * 132377
+	4755 ? * 132377
+	4755 ? ? 132377
+198949:SECURITYDAM LTD,Israel,679
+133771:Rapid Shield Company Limited,Hong Kong,7231
+	198949 ? * ? ? 133771
+	198949 * * ? ? 133771
+	198949 ? ? ? 133771
+	198949 * * * * 133771
+	198949 * ? ? 133771
+	198949 * * * 133771
+	198949 ? * * * 133771
+	198949 ? * * 133771
+40676:Psychz Networks,United States,343
+263693:WICORP SA,Argentina,22564
+	40676 * * 263693
+	40676 * * * 263693
+	40676 * * * * 263693
+20473:Choopa_ LLC,United States,104
+266444:3L CLOUD INTERNET SERVICES LTDA - EPP,Brazil,31085
+	20473 * * 266444
+132825:MYTEK TRADING PTY LTD,Australia,2448
+133771:Rapid Shield Company Limited,Hong Kong,7231
+	132825 * * * * 133771
+38794:United Information Highway Co._Ltd.,Thailand,882
+9649:PACIFIC INTERNET (S) PTE. LTD.,Singapore,12169
+	38794 * * * 9649
+	38794 ? ? 9649
+	38794 * * 9649
+9009:M247 Ltd,United Kingdom,154
+205422:,,
+	9009 * * * * 205422
+197426:Joao Carlos de Almeida Silveira trading as Bitcanal,Portugal,70238
+39536:BO ICT Management_ S.L.,Spain,61514
+	197426 * * * * ? * 39536
+	197426 * * ? * * * 39536
+3215:Orange S.A.,European Union,183
+8983:Nokia Solutions and Networks Oy,Finland,7079
+	3215 * * * * 8983
+59362:KS Network Limited,Bangladesh,755
+3:Massachusetts Institute of Technology,United States,1951
+	59362 ? ? 3
+	59362 * * 3
+3223:Voxility LLP,United Kingdom,87
+205132:Bulgarian Telecommunications Company Plc.,Bulgaria,3195
+	3223 * * * 205132
+	3223 * * * * ? ? 205132
+	3223 * * ? ? 205132
+	3223 * * * * ? 205132
+	3223 * * * ? 205132
+	3223 * * * * 205132
+	3223 * * ? 205132
+	3223 * ? ? 205132
+	3223 * * * ? ? 205132
+19551:Incapsula Inc,United States,323
+24570:TYRO PAYMENTS LIMITED,Australia,29131
+	19551 * * * 24570
+	19551 * * * * 24570
+	19551 * * 24570
+42020:LIBANTELECOM,Lebanon,282
+47935:Quantum Communications Ltd,United Kingdom,29536
+	42020 * * 47935
+	42020 ? ? 47935
+4755:Tata Communications Limited,India,39
+23197:Genesys Laboratories Canada_ Inc.,Canada,15514
+	4755 * * 23197
+	4755 ? ? 23197
+	4755 ? * 23197
+29571:Orange Côte d'Ivoire,Ivory Coast,1579
+37351:African Development Bank - AFDB,Tunisia,44054
+	29571 ? ? 37351
+	29571 * * 37351
+9534:Maxis Broadband Sdn Bhd,Malaysia,1420
+4983:Intel Corporation,United States,11121
+	9534 * ? * ? ? 4983
+	9534 * ? ? 4983
+	9534 * * * 4983
+	9534 * * * * 4983
+	9534 * ? * * ? ? 4983
+	9534 * * ? ? 4983
+31133:PJSC MegaFon,Russia,28
+50022:Kristelecom Ltd.,Czechia,14511
+	31133 ? * ? ? ? ? 50022
+	31133 * * * * 50022
+	31133 ? * * ? ? ? ? 50022
+	31133 ? ? * ? ? ? ? 50022
+	31133 * * ? * ? ? ? ? 50022
+	31133 ? * * ? ? ? 50022
+	31133 * ? * * ? ? ? 50022
+	31133 * ? ? ? ? 50022
+	31133 * * ? ? ? ? 50022
+	31133 * ? * ? ? ? ? 50022
+20473:Choopa_ LLC,United States,104
+137909:VMHaus Limited,United Kingdom,61514
+	20473 * * * 137909
+	20473 ? * 137909
+	20473 ? ? * 137909
+	20473 * * 137909
+20473:Choopa_ LLC,United States,104
+41578:Level Next Ltd,Gibraltar,45422
+	20473 * * 41578
+	20473 ? * 41578
+20473:Choopa_ LLC,United States,104
+200941:vioma GmbH,Germany,44438
+	20473 * * 200941
+	20473 * * * 200941
+38456:SpeedCast Pacific Pty Limited,Australia,1868
+132462:Bemobile Solomon Islands Ltd,Solomon Islands,37686
+	38456 ? ? ? * 132462
+	38456 * * * * 132462
+	38456 ? ? ? ? 132462
+198949:SECURITYDAM LTD,Israel,679
+7532:DigiCentre Company Limited_,Taiwan,2914
+	198949 * * * * 7532
+	198949 * ? 7532
+	198949 * * * ? 7532
+	198949 * * 7532
+45017:"DOMINET" LLC,Ukraine,50888
+61073:IberWeb LTD,Spain,70238
+	45017 * * 61073
+37100:SEACOM Limited,Mauritius,114
+327707:Airtel Rwanda Ltd.,Rwanda,4283
+	37100 * * * * 327707
+39216:AL-SARD FIBER Co. for Internet Fiber and Optical Cable Services /Ltd.,Iraq,833
+205407:,,
+	39216 * * 205407
+	39216 ? ? 205407
+12491:Gilat Satcom,Israel,1270
+37038:,,
+	12491 * * * 37038
+57916:Larom TV SRL,Romania,1544
+34016:,,
+	57916 * * 34016
+6830:Liberty Global B.V.,Austria,25
+35664:Lidas Prod SRL,Romania,21994
+	6830 * * * 35664
+	6830 * * 35664
+9009:M247 Ltd,United Kingdom,154
+202287:Men Danil Valentinovich,Turkey,70238
+	9009 * * * * 202287
+	9009 ? ? ? ? 202287
+	9009 * * * 202287
+28224:MHNET TELECOM,Brazil,3941
+267644:,,
+	28224 * * 267644
+	28224 * * * 267644
+35346:SC ITNS.NET SRL,Moldova,613
+44589:IPv4 Hosting SRL,Denmark,70238
+	35346 * * 44589
+26615:TIM S/A,Brazil,58
+11757:Whirlpool Corporation,United States,11013
+	26615 * * * 11757
+	26615 * * * * 11757
+25761:Staminus Communications,United States,2425
+133847:Anpple Tech Enterprise,Malaysia,13003
+	25761 * * * 133847
+	25761 * * * * 133847
+20473:Choopa_ LLC,United States,104
+134409:HostLink,Australia,61514
+	20473 * * * * 134409
+	20473 ? * 134409
+	20473 * * * 134409
+	20473 ? ? ? * 134409
+	20473 * * 134409
+20473:Choopa_ LLC,United States,104
+209100:CHENG-YU_WANG,China,70238
+	20473 * * 209100
+	20473 ? * 209100
+52320:GlobeNet Cabos Submarinos Colombia_ S.A.S.,Colombia,26
+266208:Allfiber Telecom Serviços de Telecomunicações,Brazil,32476
+	52320 * * * * 266208
+20598:Autonomous System number for Cyber Space_,Israel,3337
+37269:Information Connectivity Solutions Limited,Nigeria,8520
+	20598 * * 37269
+27717:Corporacion Digitel C.A.,Venezuela,2694
+23146:TotalCom America_ Corp,United States,61514
+	27717 * * * * 23146
+	27717 * * 23146
+	27717 ? * 23146
+4755:Tata Communications Limited,India,39
+134237:Ericsson Expertise Center,Malaysia,44438
+	4755 * * 134237
+	4755 ? ? 134237
+36974:MTN COTE D'IVOIRE S.A,Ivory Coast,2219
+37351:African Development Bank - AFDB,Tunisia,44054
+	36974 * * * 37351
+	36974 ? ? ? 37351
+20473:Choopa_ LLC,United States,104
+131662:Denpa Ltd.,Taiwan,28718
+	20473 * * 131662
+	20473 * * * 131662
+	20473 ? ? * 131662
+	20473 * * * * 131662
+135356:CN CARE NETWORK LTD,Hong Kong,7683
+9535:Beijing CNISP Technology Co._ Ltd.,China,17290
+	135356 * * 56082_9535
+	135356 * * * * 56082_9535
+	135356 ? ? 56082_9535
+4755:Tata Communications Limited,India,39
+17748:Affinity Express,Philippines,61514
+	4755 ? * 17748
+	4755 * * 17748
+	4755 ? ? 17748
+6939:Hurricane Electric LLC,United States,7
+138645:G3S Technologies Co._ Limited,Hong Kong,23714
+	6939 * * * 138645
+	6939 * ? * 138645
+	6939 * * 138645
+	6939 * ? 138645
+8359:MTS PJSC,Russia,37
+203718:LLC "KROVLIN",Russia,70238
+	8359 ? 203718
+58463:PT.PGAS TELEKOMUNIKASI NUSANTARA,Indonesia,196
+45306:KHASANAH TEKNOLOGI PERSADA_ PT,Indonesia,1534
+	58463 ? 45306
+	58463 ? 45306
+	58463 ? 45306
+6663:Euroweb Romania S.R.L.,Romania,96
+60741:SC MIZA Group Press SRL,Romania,14802
+	6663 * * * * 60741
+58463:PT.PGAS TELEKOMUNIKASI NUSANTARA,Indonesia,196
+18153:PT Multidata Rancana Prima,Indonesia,9516
+	58463 ? 18153
+	58463 ? 18153
+	58463 ? 18153
+265130:ultraconexão soluçoes eireli,Brazil,1044
+263296:Interfacil - Internet Provider,Brazil,25435
+	265130 * * 263296
+	265130 ? 263296
+58463:PT.PGAS TELEKOMUNIKASI NUSANTARA,Indonesia,196
+64300:PT JARINGANKU SARANA NUSANTARA,Indonesia,28436
+	58463 * * 64300
+	58463 ? 64300
+	58463 ? 64300
+	58463 ? 64300
+53062:GGNET TELECOMUNICAÇÕES LTDA,Brazil,110
+263481:Nova Serviços de Comunicação Multimídia Ltda Me,Brazil,25109
+	53062 ? ? ? ? ? ? * * ? ? * ? ? ? ? 263481
+	53062 ? ? * ? ? 263481
+	53062 ? ? ? ? ? ? 263481
+	53062 ? ? ? ? 263481
+	53062 ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? 263481
+	53062 ? ? ? ? ? ? ? ? * * ? ? ? ? ? ? ? ? ? 263481
+	53062 ? ? 263481
+	53062 ? ? ? ? ? ? ? ? ? ? ? * ? ? 263481
+	53062 ? ? ? ? ? ? ? ? ? * ? ? 263481
+	53062 * * * * 263481
+	53062 * * 263481
+	53062 ? ? ? ? ? ? * * ? ? ? ? * ? ? 263481
+263276:BBG TELECOM,Brazil,584
+263103:VivaNet Informatica - LTDA,Brazil,9178
+	263276 * * 263103
+28368:SOBRALNET SERVICOS E TELECOMUNICACOES LTDA - ME,Brazil,94
+267455:FIBRACOM TELECOMUNICACOES E SERVICOS EIRELI - ME,Brazil,33566
+	28368 * * 267455
+	28368 ? ? 267455
+61832:Fortel Fortaleza Telecomunicacoes Ltda,Brazil,74
+262273:I T Tecnologia e Informação Ltda,Brazil,25004
+	61832 * * * * 262273
+263124:ZAP TELECOM LTDA,Brazil,612
+266614:AMTECK INFORMATICA LTDA,Brazil,33566
+	263124 ? 266614
+136933:GIGABIT SOLUTION LIMITED,Hong Kong,2306
+132325:LEMON TELECOMMUNICATIONS LIMITED,Hong Kong,70238
+	136933 * * * * 132325
+	136933 ? ? ? * * 132325
+24534:Transhybrid Internet Xchange,Indonesia,1520
+136065:PT SOLUSI TRIMEGAH PERSADA,Indonesia,6539
+	24534 <> * 136065
+	24534 * * 136065
+52568:TOOLSNET TELECOMUNICACOES LTDA - ME,Brazil,1049
+266106:J.R da Silva Almeida-ME,Brazil,9869
+	52568 ? 266106
+	52568 ? 266106
+266167:CELERIX TECNOLOGIA DE TELECOMUNICACOES LTDA,Brazil,720
+267022:TG COMUNICACOES LTDA - ME,Brazil,44438
+	266167 ? ? ? ? 267022
+	266167 * * * * 267022
+	266167 ? ? ? ? ? ? 267022
+	266167 * * * 267022
+59362:KS Network Limited,Bangladesh,755
+138170:Microlink Communication,Bangladesh,37686
+	59362 ? 138170
+367:DoD Network Information Center,United States,10839
+1541:Headquarters_ USAISC,United States,756
+	367 ? ? ? ? 1541
+	367 ? ? ? ? ? 1541
+28666:HOSTLOCATION LTDA,Brazil,830
+268350:R.R.COMUNICAÇÃO & MULTIMIDIA EIRELI,Brazil,31297
+	28666 * ? ? ? ? ? 268350
+	28666 ? ? ? ? ? ? 268350
+	28666 * * ? ? ? ? ? ? ? 268350
+	28666 ? ? ? ? ? ? ? ? ? 268350
+	28666 * * * ? ? ? ? ? ? 268350
+263478:Renard Mendes Batista,Brazil,2367
+267025:ARTHUR HENRRIQUE SILVA,Brazil,37686
+	263478 ? ? ? 267025
+	263478 ? ? 267025
+	263478 * * 267025
+	263478 * * * 267025
+61832:Fortel Fortaleza Telecomunicacoes Ltda,Brazil,74
+266095:SIM TELECOM EIRELI,Brazil,33566
+	61832 * ? ? ? * 266095
+	61832 * * 266095
+	61832 ? ? 266095
+	61832 * * ? ? ? ? 266095
+55824:National Knowledge Network,India,571
+59189:Department of Information Technology & Communication_ Rajasthan,India,33566
+	55824 ? ? ? ? ? ? 59189
+	55824 ? ? * ? 59189
+	55824 * * ? * ? 59189
+	55824 ? ? ? ? ? 59189
+	55824 ? ? ? ? 59189
+	55824 ? ? ? * 59189
+	55824 * ? * ? 59189
+	55824 * * * ? * ? 59189
+	55824 * * * * 59189
+	55824 * * ? * 59189
+	55824 ? ? ? * ? 59189
+264333:JN TECNOLOGIA LTDA-ME,Brazil,9749
+268439:Claudenir dos Santos ME,Brazil,32476
+	264333 ? 268439
+58463:PT.PGAS TELEKOMUNIKASI NUSANTARA,Indonesia,196
+45724:Multi Media Access_ PT,Indonesia,28718
+	58463 ? 45724
+55824:National Knowledge Network,India,571
+134023:Aligarh Muslim University,India,37686
+	55824 * * * ? ? 134023
+	55824 * * ? ? ? 134023
+	55824 * * * 134023
+	55824 * * * ? * 134023
+	55824 * ? ? * 134023
+	55824 ? ? * ? ? 134023
+	55824 * ? ? ? 134023
+	55824 * * ? ? 134023
+	55824 * * ? * 134023
+	55824 * * * * 134023
+	55824 ? * ? ? * 134023
+	55824 ? ? ? ? 134023
+	55824 ? * ? ? 134023
+	55824 ? ? ? * 134023
+28294:Minas Gerais Telecomunicações Ltda ME,Brazil,3336
+53125:Zig Telecomunicações LTDA,Brazil,20236
+	28294 * * 53125
+	28294 * * * * 53125
+55824:National Knowledge Network,India,571
+136291:Madhya Pradesh State Electronics Development Corporation Ltd.,India,37686
+	55824 ? ? ? 136291
+	55824 * * * * 136291
+	55824 ? ? ? ? 136291
+	55824 * * * 136291
+61832:Fortel Fortaleza Telecomunicacoes Ltda,Brazil,74
+262304:Win Time Informatica Ltda.,Brazil,26445
+	61832 * ? ? ? ? ? ? * ? 262304
+	61832 * * * * 262304
+53062:GGNET TELECOMUNICAÇÕES LTDA,Brazil,110
+52684:SIMPLES COM SOLUÇÕES EM INTERNET LTDA.,Brazil,10007
+	53062 ? ? ? ? ? ? ? ? ? ? ? ? * 52684
+263856:TECK LINK TELECOM,Brazil,1410
+265293:SPEEDMAX INTERNET BANDA LARGA,Brazil,37686
+	263856 ? ? ? 265293
+	263856 * * * 265293
+	263856 * * * * 265293
+	263856 ? * * 265293
+	263856 ? ? ? ? ? 265293
+25933:Vogel Soluções em Telecom e Informática S/A,Brazil,179
+266323:HPN TELECOMUNICAÇÕES LTDA.,Brazil,70238
+	25933 ? 266323
+	25933 ? 266323
+9885:National Knowledge Network,India,540
+4758:National Informatics Centre,India,12054
+	9885 * * * * 4758
+61832:Fortel Fortaleza Telecomunicacoes Ltda,Brazil,74
+263335:Alternativa Telecom,Brazil,26445
+	61832 * ? ? ? ? ? ? * 263335
+	61832 * ? ? ? ? ? * 263335
+	61832 * * ? ? ? ? ? * 263335
+7738:Telemar Norte Leste S.A.,Brazil,42
+264079:ALANN EUDES DE SOUZA PEREIRA - ME,Brazil,32476
+	7738 ? ? ? 264079
+	7738 ? ? ? ? ? 264079
+	7738 * * * * 264079
+	7738 * * * 264079
+	7738 ? ? ? ? 264079
+	7738 * ? ? 264079
+	7738 ? ? ? ? * 264079
+	7738 * ? ? ? 264079
+	7738 ? ? ? * 264079
+	7738 * ? ? * 264079
+266167:CELERIX TECNOLOGIA DE TELECOMUNICACOES LTDA,Brazil,720
+266503:INA TELECOM LTDA,Brazil,32476
+	266167 * * * 266503
+	266167 ? ? ? 266503
+12660:Sharif University Of Technology,Iran,13774
+202663:MAJD NGN ICT DEVELOPMENT PJSC,Iran,70238
+	12660 * * * 202663
+53062:GGNET TELECOMUNICAÇÕES LTDA,Brazil,110
+264308:RM INFORMATICA LTDA,Brazil,3563
+	53062 * * * * 264308
+58463:PT.PGAS TELEKOMUNIKASI NUSANTARA,Indonesia,196
+46055:PT ROKA LANE ASIA,Indonesia,10019
+	58463 * * 46055
+	58463 ? 46055
+	58463 ? 46055
+	58463 ? 46055
+266167:CELERIX TECNOLOGIA DE TELECOMUNICACOES LTDA,Brazil,720
+265085:José Aderaldo de souza Fernandes,Brazil,33566
+	266167 ? ? ? ? ? ? ? * 265085
+266167:CELERIX TECNOLOGIA DE TELECOMUNICACOES LTDA,Brazil,720
+268376:IGRI TELECOM LTDA - ME,Brazil,37686
+	266167 * * * 268376
+	266167 * * * * 268376
+268696:TUDDO INTERNET LTDA,Brazil,801
+263039:Interminas - Provedor de Serviços de Internet Ltda,Brazil,26445
+	268696 * * * * 263039
+	268696 * * * 263039
+28368:SOBRALNET SERVICOS E TELECOMUNICACOES LTDA - ME,Brazil,94
+267617:ARREBENTA TELECOM LTDA,Brazil,37686
+	28368 ? ? 267617
+	28368 * * 267617
+61832:Fortel Fortaleza Telecomunicacoes Ltda,Brazil,74
+263931:R C ALMEIDA DA SILVA,Brazil,32476
+	61832 * * * * 263931
+28666:HOSTLOCATION LTDA,Brazil,830
+267496:PAK TELECOMUNICACOES E TECNOLOGIA DA INFORMACAO EI,Brazil,31437
+	28666 ? ? ? ? ? 267496
+	28666 ? ? ? ? ? ? ? 267496
+	28666 ? ? ? ? ? ? 267496
+267613:ELETRONET S.A.,Brazil,53
+263913:A. L. N. LOPES,Brazil,25114
+	267613 ? ? 263913
+	267613 * * 263913
+	267613 ? ? ? ? 263913
+	267613 * * * * 263913
+28368:SOBRALNET SERVICOS E TELECOMUNICACOES LTDA - ME,Brazil,94
+264070:FARIA & SCHIMITH LTDA - ME,Brazil,32476
+	28368 * * * 264070
+	28368 * * 264070
+	28368 ? ? ? 264070
+265684:INVERSIONES GRAJEDA ANDRADE S.A,Guatemala,3113
+267713:JORGE MARIO_ MENDOZA LUX (PUNTO-NET),Guatemala,37686
+	265684 * * 267713
+10429:TELEFÔNICA BRASIL S.A,Brazil,35
+26616:UBMEX DATA CENTER E TELECOMUNICACOES LTDA,Brazil,5872
+	10429 ? 26616
+	10429 ? 26616
+53013:W I X NET DO BRASIL LTDA - ME,Brazil,99
+269272:NEWNET TECNOLOGIA E PROJETOS LTDA,Brazil,33566
+	53013 ? 269272
+262375:Data Info Comercio e Servico Ltda.,Brazil,1097
+61641:Itaconnect Provedores Ltda - Me,Brazil,37686
+	262375 * * 61641
+	262375 ? * 61641
+	262375 * * * 61641
+	262375 * * * * 61641
+	262375 * ? 61641
+	262375 * * ? 61641
+	262375 ? ? 61641
+58463:PT.PGAS TELEKOMUNIKASI NUSANTARA,Indonesia,196
+135465:DISKOMINFO TANGERANG SELATAN,Indonesia,37686
+	58463 ? 135465
+	58463 ? 135465
+	58463 ? 135465
+7738:Telemar Norte Leste S.A.,Brazil,42
+268330:LOUZEIRO & MORAIS LTDA,Brazil,6411
+	7738 * * * * 268330
+	7738 * ? ? ? 268330
+	7738 ? ? ? ? 268330
+	7738 ? ? * * 268330
+4766:Korea Telecom,South Korea,47
+17616:barofn,South Korea,33566
+	4766 * * * * 17616
+	4766 * * 17616
+44217:IQ Networks,Iraq,1669
+60663:Speedway Company for Internet service Ltd.,Iraq,61514
+	44217 ? ? ? ? ? 60663
+53062:GGNET TELECOMUNICAÇÕES LTDA,Brazil,110
+263289:Palmasnet Informática LTDA,Brazil,8880
+	53062 ? ? ? ? * ? ? ? ? ? ? ? ? ? ? ? ? * 263289
+	53062 ? ? * 263289
+	53062 ? ? ? ? ? ? ? ? ? ? ? ? ? * * ? ? * ? ? 263289
+	53062 ? ? ? ? ? ? ? ? ? ? ? ? * * ? ? * ? ? 263289
+	53062 ? ? ? * 263289
+	53062 ? ? ? ? ? ? ? ? 263289
+	53062 ? ? ? ? ? * * ? ? ? * * ? ? * ? ? 263289
+	53062 ? ? ? ? ? ? ? ? ? * ? 263289
+	53062 ? ? ? ? ? ? ? * 263289
+	53062 ? ? ? ? ? * * * * ? ? ? ? ? ? ? ? * 263289
+	53062 * * * * 263289
+	53062 ? ? ? ? ? ? ? ? ? ? ? ? * * ? ? ? ? * 263289
+	53062 ? ? ? ? ? ? ? ? ? ? ? ? ? ? * 263289
+	53062 ? ? ? ? ? ? ? ? ? * 263289
+	53062 ? ? ? * ? ? ? ? ? * ? ? ? ? ? ? * 263289
+	53062 * * * 263289
+	53062 ? ? ? ? ? ? ? ? ? ? ? ? * 263289
+	53062 ? ? ? ? ? ? * * ? ? ? ? * ? 263289
+	53062 ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? * 263289
+	53062 ? ? ? * ? ? ? ? ? ? ? ? ? ? ? ? * 263289
+	53062 ? ? ? ? ? ? ? * ? ? ? ? * 263289
+	53062 ? ? ? ? ? * ? ? ? ? ? ? * 263289
+	53062 ? ? * ? 263289
+	53062 ? ? ? ? ? * * ? ? ? ? ? ? ? ? ? ? * 263289
+16735:ALGAR TELECOM S/A,Brazil,24
+61931:EGTECH TELECOM LTDA,Brazil,25435
+	16735 ? 61931
+	16735 ? 61931
+10429:TELEFÔNICA BRASIL S.A,Brazil,35
+52638:Mundo SIM,Brazil,26445
+	10429 ? 52638
+	10429 * * * * 52638
+131284:Etisalat Afghan,Afghanistan,1171
+59317:Afghan Cyber ISP,Afghanistan,33566
+	131284 ? ? 59317
+	131284 * * 59317
+	131284 ? ? ? ? ? 59317
+	131284 ? * * * * 59317
+	131284 * ? ? ? ? 59317
+	131284 * ? ? * ? 59317
+	131284 ? ? ? * ? 59317
+266167:CELERIX TECNOLOGIA DE TELECOMUNICACOES LTDA,Brazil,720
+266061:Radio Gaga Internet e Serviços Ltda,Brazil,33566
+	266167 * * ? 266061
+	266167 ? ? ? ? ? ? * 266061
+	266167 ? ? ? ? * 266061
+	266167 ? ? ? ? ? * 266061
+	266167 * * * 266061
+14259:Gtd Internet S.A.,Chile,417
+267826:VPS GURU CHILE SPA,Chile,37686
+	14259 * * 267826
+45820:TTSL-ISP DIVISION,India,113
+132323:PERFECT INTERNET PVT LTD,India,6100
+	45820 * * * * 132323
+	45820 * * * 132323
+15296:Cybera Inc,Canada,878
+53906:Lethbridge School District No. 51,Canada,70238
+	15296 * * 53906
+28638:EMTEC EMPRESA DE TECNOLOGIA EMPREENDIMENTOS DE COM,Brazil,2843
+264954:Virtual Connect,Brazil,37686
+	28638 ? ? ? ? ? 264954
+	28638 ? ? ? ? ? ? 264954
+	28638 * * * * 264954
+	28638 ? ? ? ? 264954
+	28638 ? ? ? ? ? ? ? 264954
+61832:Fortel Fortaleza Telecomunicacoes Ltda,Brazil,74
+262484:Zumpa Telecom Telecomunicações EIRELI,Brazil,20049
+	61832 * ? ? 262484
+	61832 * * * 262484
+	61832 ? ? ? ? * 262484
+	61832 * ? ? ? ? * * 262484
+267613:ELETRONET S.A.,Brazil,53
+52638:Mundo SIM,Brazil,26445
+	267613 ? ? * 52638
+	267613 * * * * 52638
+	267613 ? ? ? ? * 52638
+	267613 * * * 52638
+	267613 ? ? ? ? ? ? 52638
+	267613 ? ? ? ? ? * 52638
+	267613 ? ? ? ? ? 52638
+61832:Fortel Fortaleza Telecomunicacoes Ltda,Brazil,74
+268057:J C G SILVA INFORMATICA EIRELI,Brazil,37686
+	61832 * ? ? ? * ? 268057
+138482:SKYVIEW ONLINE LTD,Bangladesh,1635
+139036:Edge Speed,Bangladesh,50888
+	138482 ? 139036
+263324:Net&Com Serviços de Informática e Telecomunicações,Brazil,803
+266993:AR Connect LTDA,Brazil,37686
+	263324 ? 266993
+22927:Telefonica de Argentina,Argentina,130
+13316:SES Sistemas Electrónicos S.A.,Argentina,18020
+	22927 * * * * 13316
+	22927 * * * 13316
+267613:ELETRONET S.A.,Brazil,53
+267156:CONECTELL TELECOM,Brazil,37686
+	267613 * * 267156
+	267613 ? ? ? 267156
+	267613 * * * 267156
+	267613 * * * * 267156
+	267613 ? ? 267156
+265379:JULIO CESAR DAS NEVES - ME,Brazil,9585
+266623:Pedro F Arruda Junior ME,Brazil,4113
+	265379 * * 266623
+	265379 ? ? 266623
+28580:CILNET Comunicacao e Informatica LTDA.,Brazil,737
+61899:CERVEJARIA PETROPOLIS SA,Brazil,32117
+	28580 * * 61899
+	28580 * * * 61899
+263346:Fonte Informatica ltda,Brazil,2046
+262653:PORTALMAIL INFORMATICA LTDA,Brazil,20789
+	263346 * * 262653
+	263346 * * * 262653
+	263346 ? ? 262653
+55824:National Knowledge Network,India,571
+133644:RESEARCH CENTER IMARAT,India,55311
+	55824 * * * * 133644
+	55824 * * ? ? 133644
+	55824 * * ? * 133644
+262186:TV AZTECA SUCURSAL COLOMBIA,Colombia,1992
+267857:INTEGRA MULTISOLUTIONS S.A.S.,Colombia,23417
+	262186 * * 267857
+38794:United Information Highway Co._Ltd.,Thailand,882
+134100:Express Data Co._Ltd,Thailand,30502
+	38794 ? ? ? * * 134100
+	38794 * ? ? * * 134100
+	38794 ? ? ? * 134100
+61832:Fortel Fortaleza Telecomunicacoes Ltda,Brazil,74
+268692:G T Lopes & Ltda,Brazil,32476
+	61832 * ? ? ? ? 268692
+263482:Megalink Servicos Ltda,Brazil,1018
+268966:i9 Master - Consultoria Tecnologicas & Telecom,Brazil,33566
+	263482 ? 268966
+266167:CELERIX TECNOLOGIA DE TELECOMUNICACOES LTDA,Brazil,720
+262711:TURBO MAX TELECOMUNICACOES LTDA,Brazil,7961
+	266167 * * * * 262711
+	266167 ? ? ? * 262711
+	266167 * * * * ? 262711
+	266167 ? ? ? ? ? ? 262711
+	266167 ? ? ? ? 262711
+	266167 ? ? * ? 262711
+	266167 * * * ? 262711
+	266167 ? ? ? ? ? 262711
+58463:PT.PGAS TELEKOMUNIKASI NUSANTARA,Indonesia,196
+45718:PT Surya Global Teknologi,Indonesia,2622
+	58463 ? 45718
+61832:Fortel Fortaleza Telecomunicacoes Ltda,Brazil,74
+266458:MEGGANET SERV DE INTERNET E INFO LTDA,Brazil,33566
+	61832 * * * * 266458
+	61832 * * ? ? 266458
+262375:Data Info Comercio e Servico Ltda.,Brazil,1097
+266263:LINKMINAS TELECOMUNICAÇÕES LTDA,Brazil,33527
+	262375 * * * 266263
+	262375 * * * * 266263
+	262375 ? ? ? 266263
+61832:Fortel Fortaleza Telecomunicacoes Ltda,Brazil,74
+264553:J da L Moraes Telecom ME,Brazil,37686
+	61832 * ? ? ? ? * * ? 264553
+266167:CELERIX TECNOLOGIA DE TELECOMUNICACOES LTDA,Brazil,720
+263040:HYPER TELECOM,Brazil,25435
+	266167 ? ? ? ? ? ? 263040
+36873:Airtel Networks Limited,Nigeria,973
+37004:Suburban Broadband Ltd,Nigeria,18766
+	36873 * * * * 37004
+52863:UPX TECHNOLOGIES,Brazil,353
+263111:GTVR TELECOMUNICACOES LTDA - ME,Brazil,25435
+	52863 * * * 263111
+	52863 * * 263111
+26615:TIM S/A,Brazil,58
+28358:INTERTELCO TELECOMUNICAÇÕES MULTIMÍDIA LTDA,Brazil,25114
+	26615 * * 28358
+	26615 * * * 28358
+52696:JTR DA SILVA TECNOLOGIA ME,Brazil,1293
+270399:ITACONECT SERVICOS DE COM. E MULT. LTDA,Brazil,32476
+	52696 ? 270399
+59203:Angel Drops Ltd.,Bangladesh,61514
+133957:SOL-BD,Bangladesh,27758
+	59203 ? ? ? 133957
+	59203 * * * * 133957
+	59203 * * * 133957
+61832:Fortel Fortaleza Telecomunicacoes Ltda,Brazil,74
+264974:TELECOM SCAE LTDA,Brazil,9749
+	61832 * ? ? * ? 264974
+61832:Fortel Fortaleza Telecomunicacoes Ltda,Brazil,74
+263338:VEXNET TELECON INFORMÁTICA LTDA,Brazil,8888
+	61832 * * 263338
+28368:SOBRALNET SERVICOS E TELECOMUNICACOES LTDA - ME,Brazil,94
+263841:JOSE DIAS DE OLIVEIRA NETO,Brazil,6254
+	28368 * * 263841
+	28368 * ? 263841
+	28368 ? <> 263841
+	28368 * <> 263841
+61832:Fortel Fortaleza Telecomunicacoes Ltda,Brazil,74
+263841:JOSE DIAS DE OLIVEIRA NETO,Brazil,6254
+	61832 * ? ? ? * ? ? 263841
+	61832 * * ? ? ? ? ? ? 263841
+	61832 ? * ? ? ? ? ? ? 263841
+	61832 * * * * 263841
+50153:Wlodzimierz Gasior_ Jolanta Gadek trading as Net-Bis s.c.,Poland,6130
+35318:Inter Com Slawomir Lebek,Poland,37686
+	50153 * * * 35318
+134806:Sky View Online,Bangladesh,26445
+138197:Wink Network,Bangladesh,1486
+	134806 ? 138197
+53162:VOIPGLOBE SERVICOS DE COM MULTIMIDIA VIA INTERNET,Brazil,2532
+268242:CONECTJET - CONEXOES RAPIDAS LTDA EPP,Brazil,10513
+	53162 * ? ? ? ? 268242
+	53162 * ? ? 268242
+	53162 * * * 268242
+	53162 * * 268242
+	53162 * ? 268242
+265198:BLUE3 TECNOLOGIA EIRELI,Brazil,3514
+268431:DE CARLI E PIRES TI LTDA,Brazil,32117
+	265198 ? ? 268431
+	265198 * * 268431
+52965:1TELECOM SERVICOS DE TECNOLOGIA EM INTERNET LTDA,Brazil,146
+53153:CINTE Telecom Comercio e Servicos Ltda.,Brazil,3496
+	52965 ? ? ? ? ? ? ? ? * * 53153
+	52965 ? ? ? ? ? ? ? ? ? ? ? ? * 53153
+	52965 ? ? ? ? ? ? ? * * 53153
+	52965 ? ? ? ? ? ? ? ? ? 53153
+	52965 ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? 53153
+	52965 ? ? ? ? ? ? ? ? ? ? ? ? * * 53153
+	52965 ? ? ? ? ? ? ? * 53153
+	52965 ? ? ? ? ? ? ? ? 53153
+17996:PT Global Prima Utama,Indonesia,4798
+135472:Dinas Kominfo Kabupaten Sleman,Indonesia,47493
+	17996 ? 135472
+38456:SpeedCast Pacific Pty Limited,Australia,1868
+37985:SPEEDCAST AUSTRALIA PTY LIMITED,Australia,70238
+	38456 ? ? ? 37985
+	38456 ? ? ? * 37985
+	38456 ? ? * ? 37985
+	38456 * * * 37985
+	38456 * * * * 37985
+	38456 ? * ? * 37985
+	38456 ? ? ? ? 37985
+	38456 ? ? ? ? ? 37985
+263546:TURBONETT TELECOMUNICACOES LTDA. - ME,Brazil,3522
+263268:VITORINO NET LTDA,Brazil,26445
+	263546 * * 263268
+53059:Center Prestadora Serviços S/C Ltda,Brazil,7470
+266056:EASYTECH TELECOM LTDA,Brazil,37686
+	53059 * ? 266056
+	53059 ? ? 266056
+	53059 * * 266056
+4258:Accretive Networks,United States,4379
+27501:LasVegas.Net LLC,United States,4386
+	4258 * * * * 27501
+	4258 * * 27501
+	4258 ? ? ? ? ? ? 27501
+	4258 * * * 27501
+	4258 ? ? ? ? ? 27501
+61893:RM dos Santos Informatica,Brazil,4746
+266057:X2 TELECOM LTDA,Brazil,37686
+	61893 * * 266057
+	61893 ? ? 266057
+61832:Fortel Fortaleza Telecomunicacoes Ltda,Brazil,74
+268580:ESTEFANE A DA SILVA - ME,Brazil,33566
+	61832 * ? ? * ? 268580
+	61832 * ? * ? 268580
+	61832 * * * * 268580
+61832:Fortel Fortaleza Telecomunicacoes Ltda,Brazil,74
+268629:spartan net servicos de comunicacao multimidia,Brazil,61514
+	61832 * ? ? ? ? 268629
+11164:Internet2,United States,59
+10437:University of Kentucky_ Communication Services,United States,2424
+	11164 ? 10437
+61832:Fortel Fortaleza Telecomunicacoes Ltda,Brazil,74
+264213:CONNECT TELECOM LTDA ME,Brazil,31678
+	61832 * * 264213
+136255:Telecom International Myanmar Company Limited,Myanmar,1371
+134714:Elite Telecom Public Company Limited,Myanmar,33566
+	136255 ? 134714
+263880:WANTEL TECNOLOGIA LTDA. ­ EPP,Brazil,1349
+267035:MS TELECOM LTDA ME,Brazil,9869
+	263880 ? ? 267035
+	263880 * * 267035
+20484:NetworksValley (Yalla Online),Egypt,17778
+15804:The Way Out Company,Egypt,17349
+	20484 ? * * * 15804
+	20484 * * * * 15804
+	20484 * * * 15804
+	20484 * * * ? 15804
+	20484 * ? * * 15804
+4766:Korea Telecom,South Korea,47
+10040:NICE Information Telecommunication_ Inc,South Korea,46266
+	4766 * * * * 10040
+	4766 * * 10040
+62600:Arizona Board of Regents,United States,3219
+209:CenturyLink Communications_ LLC,United States,31
+	62600 ? 209
+7049:Silica Networks Argentina S.A.,Argentina,148
+265842:NARDANONE PEDRO FEDERICO SALVADOR,Argentina,44438
+	7049 * * * 265842
+197068:HLL LLC,Russia,806
+61111:RTCloud_ LLC,Russia,46346
+	197068 * * 61111
+28666:HOSTLOCATION LTDA,Brazil,830
+268043:REDE LANDAN INTERNET EIRELI-ME,Brazil,31645
+	28666 * * * * ? ? ? ? 268043
+	28666 * * * ? ? ? ? ? 268043
+	28666 * * ? ? ? ? ? ? 268043
+	28666 ? ? ? ? ? ? ? 268043
+24088:Hanoi Telecom Joint Stock Company - HCMC Branch,Vietnam,846
+135952:VPS Securities Joint Stock Company,Vietnam,50888
+	24088 ? ? ? 135952
+	24088 * * * * 135952
+	24088 ? ? ? ? ? 135952
+	24088 ? ? ? ? 135952
+	24088 * * 135952
+	24088 * * ? ? ? 135952
+	24088 * * * 135952
+	24088 ? ? 135952
+267354:FOREST TELECOM,Brazil,5880
+264216:Fenix Wireless Internet Ltda,Brazil,33566
+	267354 * * * 264216
+52568:TOOLSNET TELECOMUNICACOES LTDA - ME,Brazil,1049
+264333:JN TECNOLOGIA LTDA-ME,Brazil,9749
+	52568 ? 264333
+	52568 ? 264333
+267613:ELETRONET S.A.,Brazil,53
+263546:TURBONETT TELECOMUNICACOES LTDA. - ME,Brazil,3522
+	267613 * * * * 263546
+	267613 ? ? * * 263546
+10429:TELEFÔNICA BRASIL S.A,Brazil,35
+263043:WIFF Telecom Eireli,Brazil,22852
+	10429 ? 263043
+	10429 ? 263043
+134146:SAM ONLINE,Bangladesh,1823
+132290:The Net,Bangladesh,70238
+	134146 ? 132290
+28022:CRISP S.A.,Costa Rica,3108
+262171:Telecom Logistics S.A.,Costa Rica,19974
+	28022 * * * * 262171
+	28022 * * ? 262171
+	28022 * * * 262171
+	28022 * * 262171
+12741:Netia SA,Poland,84
+197399:Gmina Miasto Koszalin,Poland,25435
+	12741 ? 197399
+13999:Mega Cable_ S.A. de C.V.,Mexico,869
+28526:Universidad Autonoma del Estado de Mexico,Mexico,12319
+	13999 ? ? * ? ? ? 28526
+	13999 ? ? ? ? 28526
+	13999 ? ? * ? ? ? ? 28526
+	13999 ? ? ? ? ? ? ? 28526
+	13999 ? * ? ? 28526
+	13999 ? ? ? ? ? ? 28526
+	13999 * * * ? ? ? 28526
+	13999 * * * * 28526
+	13999 ? ? ? ? ? 28526
+	13999 * * * 28526
+28126:BRISANET SERVICOS DE TELECOMUNICACOES LTDA,Brazil,622
+264968:NETWORK SOLUCOES INTERNET LTDA,Brazil,33566
+	28126 <> ? ? ? 264968
+	28126 <> ? * ? ? ? ? 264968
+8048:CANTV Servicios_ Venezuela,Venezuela,894
+27893:Universidad de Carabobo,Venezuela,7334
+	8048 * * * * 27893
+	8048 ? ? ? ? 27893
+266167:CELERIX TECNOLOGIA DE TELECOMUNICACOES LTDA,Brazil,720
+266236:VELPRO TELECOMUNICACOES EIRELI,Brazil,6408
+	266167 ? ? ? ? ? * * 266236
+	266167 ? ? ? ? ? ? ? 266236
+7049:Silica Networks Argentina S.A.,Argentina,148
+266898:CABLE IMAGEN ARMSTRONG SRL,Argentina,33566
+	7049 * * 266898
+197068:HLL LLC,Russia,806
+50166:RTCloud_ LLC,Russia,28421
+	197068 * ? * 50166
+	197068 * * 50166
+	197068 * ? 50166
+	197068 * ? * * * * 50166
+	197068 * * * 50166
+	197068 * * * * 50166
+	197068 * ? * * 50166
+61832:Fortel Fortaleza Telecomunicacoes Ltda,Brazil,74
+265335:PLANETA NET TELECOM,Brazil,9869
+	61832 * * 265335
+	61832 * * * 265335
+58463:PT.PGAS TELEKOMUNIKASI NUSANTARA,Indonesia,196
+63868:PT Nasional Online,Indonesia,37686
+	58463 ? 63868
+267613:ELETRONET S.A.,Brazil,53
+264991:BOMFIM E SOUSA LTDA,Brazil,4124
+	267613 ? ? ? 264991
+	267613 * * * 264991
+263073:DTEL TELECOM,Brazil,451
+266982:R. XAVIER PEREIRA - ME,Brazil,37686
+	263073 ? ? ? ? ? ? ? 266982
+42020:LIBANTELECOM,Lebanon,282
+48629:ICLIK SARL,Lebanon,28718
+	42020 * * * * 48629
+	42020 * * 48629
+	42020 * * * 48629
+55199:Epsilon US_ Inc.,United States,10030
+6939:Hurricane Electric LLC,United States,7
+	55199 ? 6939
+8048:CANTV Servicios_ Venezuela,Venezuela,894
+27957:Banco Mercantil C.A._ S.A.C.A.-S.A.I.C.A,Venezuela,28556
+	8048 * * * * 27957
+	8048 * * * 27957
+	8048 ? ? ? ? 27957
+	8048 * * 27957
+59362:KS Network Limited,Bangladesh,755
+135578:Dhaka Information Technology,Bangladesh,46810
+	59362 ? 135578
+28666:HOSTLOCATION LTDA,Brazil,830
+267401:MAGIC WINDOWS LTDA,Brazil,31569
+	28666 * * * 267401
+	28666 ? ? ? 267401
+	28666 * ? ? ? 267401
+	28666 * * * * 267401
+28146:MHNET TELECOM,Brazil,187
+61639:BCNET INFORMÁTICA EIRELI,Brazil,25435
+	28146 * * * * 61639
+	28146 * * 61639
+	28146 * * * 61639
+	28146 ? ? 61639
+7738:Telemar Norte Leste S.A.,Brazil,42
+263108:OPANET TELECOMUNICACOES LTDA - ME,Brazil,25435
+	7738 ? * ? ? 263108
+	7738 * ? ? ? 263108
+	7738 * * ? ? 263108
+	7738 * * * * 263108
+	7738 ? ? ? ? 263108
+	7738 ? * * * 263108
+	7738 * ? ? * 263108
+	7738 ? * ? * 263108
+267613:ELETRONET S.A.,Brazil,53
+269202:BRASNET MULTIINFORMATICA LTDA ME,Brazil,33566
+	267613 * * 269202
+	267613 ? ? ? 269202
+	267613 * * * * 269202
+	267613 * * * 269202
+26615:TIM S/A,Brazil,58
+263922:SPEED TURBO TELECOM,Brazil,9749
+	26615 * * * 263922
+27193:Skyriver Communications_ Inc.,United States,69732
+394246:VALOR COMMUNICATION_ INC.,United States,61514
+	27193 * * 394246
+24122:BDCOM Online Limited,Bangladesh,2573
+136738:Dhaka Power Distribution Company Limited,Bangladesh,47493
+	24122 * * * 136738
+	24122 ? ? ? 136738
+53062:GGNET TELECOMUNICAÇÕES LTDA,Brazil,110
+263944:FiberNet Telecomunicacoes,Brazil,9869
+	53062 ? ? * ? ? 263944
+	53062 ? ? ? ? ? ? 263944
+	53062 ? ? ? ? ? 263944
+265442:VISUAL LINK COMUNICACOES MULTIMIDIA LTDA - ME,Brazil,1050
+265174:MENTRIX TELECOM,Brazil,37686
+	265442 * * 265174
+	265442 ? ? ? 265174
+	265442 * * * 265174
+	265442 ? ? 265174
+	265442 * ? ? 265174
+53095:Axnet Provedor de Internet Comercio Ltda,Brazil,8457
+53041:Uau Telecom Ltda ME,Brazil,26445
+	53095 * * * 53041
+	53095 ? ? ? 53041
+	53095 * * 53041
+7738:Telemar Norte Leste S.A.,Brazil,42
+266362:NORTE TELECOM EIRELI - ME,Brazil,33566
+	7738 * ? ? ? 266362
+	7738 ? ? ? ? 266362
+	7738 ? ? ? ? ? 266362
+	7738 * * * * 266362
+	7738 * * * 266362
+	7738 * * 266362
+53062:GGNET TELECOMUNICAÇÕES LTDA,Brazil,110
+11802:Centro de Informatica e Automacao do Estado de SC,Brazil,5729
+	53062 ? ? * ? ? 11802
+	53062 ? ? * ? ? ? ? ? ? ? ? ? 11802
+	53062 * * * <> * * 11802
+	53062 ? ? ? * ? ? ? ? ? ? ? ? ? 11802
+	53062 ? ? ? ? ? ? ? ? ? 11802
+	53062 ? ? ? ? ? ? ? ? ? ? ? ? 11802
+	53062 ? ? ? ? ? * * ? ? ? ? ? ? ? ? 11802
+	53062 ? ? ? ? ? ? ? ? ? * ? ? ? ? <> * * 11802
+	53062 * * ? ? ? ? ? ? ? ? ? ? ? ? ? 11802
+	53062 ? ? ? ? ? * * ? ? * * * * ? ? 11802
+	53062 ? ? ? ? ? ? ? ? ? ? ? ? ? 11802
+	53062 ? 11802
+	53062 * * * <> ? * 11802
+	53062 ? ? ? ? ? ? ? ? ? * ? ? ? ? 11802
+	53062 * * * 11802
+	53062 * * * * 11802
+	53062 ? ? ? * ? ? ? ? ? ? ? ? ? * ? ? ? ? 11802
+	53062 ? ? ? ? * ? ? ? ? ? ? ? ? ? ? 11802
+	53062 ? ? ? ? ? ? ? ? ? ? 11802
+	53062 ? ? ? * ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? 11802
+	53062 * ? ? 11802
+	53062 * * * <> * 11802
+	53062 * * * <> 11802
+	53062 ? ? ? ? ? ? ? * * ? ? * ? ? ? ? 11802
+	53062 ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? 11802
+	53062 ? ? * ? ? ? ? ? ? ? ? ? ? 11802
+	53062 ? ? ? 11802
+	53062 ? ? ? ? ? ? ? * ? * ? ? ? ? 11802
+	53062 ? * ? 11802
+136255:Telecom International Myanmar Company Limited,Myanmar,1371
+132100:Myanmar Speed Net Co._Ltd,Myanmar,25435
+	136255 * * * 132100
+	136255 * ? ? 132100
+	136255 ? ? 132100
+	136255 * * 132100
+	136255 ? ? ? 132100
+26615:TIM S/A,Brazil,58
+268902:DANIEL CARVALHO DE OLIVEIRA SILVA ­ ME,Brazil,37686
+	26615 * * * 268902
+55330:Government Communications Network,Afghanistan,961
+132173:Streamlink,Afghanistan,37686
+	55330 * ? ? 132173
+	55330 ? ? 132173
+	55330 * * * 132173
+	55330 * * 132173
+263394:Networks Soluções em Informática,Brazil,9144
+268773:Lider Telecomunicaçoes Eireli,Brazil,9749
+	263394 * * 268773
+52956:Speed Travel Comunicação Multimídia Ltda - ME,Brazil,3431
+266284:ADAO DA SILVA NORTE-TEL TELECOMUNICACOES EIRELI,Brazil,4931
+	52956 ? * 266284
+	52956 ? ? 266284
+	52956 * ? 266284
+	52956 * * 266284
+52965:1TELECOM SERVICOS DE TECNOLOGIA EM INTERNET LTDA,Brazil,146
+61859:Luup Telecomunicações LTDA - ME,Brazil,33566
+	52965 ? ? ? ? ? ? ? ? ? ? ? ? 61859
+	52965 ? ? ? ? ? ? ? ? ? 61859
+	52965 ? ? ? ? ? ? ? ? ? ? 61859
+	52965 ? ? ? ? ? * ? ? ? 61859
+	52965 ? ? ? ? ? ? ? 61859
+	52965 ? ? ? ? ? ? ? ? 61859
+	52965 * * * ? ? ? ? ? ? ? 61859
+39709:EXTREME LTD,Russia,7729
+43176:Dynamic Network Technologies Ltd,Russia,19332
+	39709 ? 43176
+264929:E P JUNIOR REDES E INFORMATICA,Brazil,4719
+263043:WIFF Telecom Eireli,Brazil,22852
+	264929 * * 263043
+16629:CTC. CORP S.A. (TELEFONICA EMPRESAS),Chile,1033
+17126:E-money,Chile,22852
+	16629 * * * 17126
+	16629 * * * * 17126
+262468:Natel Telecom Ltda. - ME,Brazil,741
+269379:JERSON UBIRATAN DA SILVA BARROS ME,Brazil,33566
+	262468 * * * 269379
+	262468 ? ? ? 269379
+	262468 * * 269379
+	262468 * * * * 269379
+28666:HOSTLOCATION LTDA,Brazil,830
+266433:MQ TELECOM LTDA - ME,Brazil,37686
+	28666 * ? ? ? ? 266433
+	28666 ? ? ? ? ? 266433
+	28666 ? ? ? ? ? ? ? 266433
+7049:Silica Networks Argentina S.A.,Argentina,148
+263775:Intelisis S.A.,Argentina,32476
+	7049 * * 263775
+10103:Hong Kong Broadband Network Ltd,Hong Kong,342
+64013:PING GLOBAL LIMITED,Hong Kong,70238
+	10103 ? * 64013
+	10103 * * 64013
+13999:Mega Cable_ S.A. de C.V.,Mexico,869
+265529:Miguel Angel Gonzalez Dobarganes,Mexico,44054
+	13999 * ? ? ? 265529
+	13999 * ? ? ? ? ? ? 265529
+	13999 * * * * 265529
+14230:Involta,United States,1421
+14532:CBOSS INC,United States,33566
+	14230 ? ? 14532
+	14230 ? * ? 14532
+	14230 * * * 14532
+	14230 * * ? 14532
+	14230 ? ? ? 14532
+	14230 * * 14532
+13999:Mega Cable_ S.A. de C.V.,Mexico,869
+265525:TV CABLE DEL GUADIANA S.A DE C.V.,Mexico,32476
+	13999 * ? 265525
+	13999 * * 265525
+	13999 * * * 265525
+136933:GIGABIT SOLUTION LIMITED,Hong Kong,2306
+136970:YISU CLOUD LTD,Hong Kong,16280
+	136933 * * * * 136970
+	136933 * ? ? ? 136970
+	136933 * ? * ? 136970
+52657:NORTE TELECOMUNICAÇÕES SERVIÇOS DE INTERNET LTDA,Brazil,3532
+264985:silva souza comercio e serviço de informatica ltda,Brazil,32476
+	52657 ? ? 264985
+	52657 * * * 264985
+	52657 * * 264985
+136514:Onesky Communications Limited.,Bangladesh,3548
+136556:M/S BD ONLINE SYSTEMS,Bangladesh,50888
+	136514 ? 136556
+262869:G1Telecom Provedor de Internet LTDA ME,Brazil,9733
+268679:Mikol Net Telecomunicaçoes LTDA Eirele ME,Brazil,37686
+	262869 ? ? ? 268679
+	262869 * * * 268679
+61832:Fortel Fortaleza Telecomunicacoes Ltda,Brazil,74
+268093:L F DO AMARAL EIRELI ME,Brazil,37686
+	61832 * * * * 268093
+	61832 * ? ? ? 268093
+	61832 * * ? ? 268093
+7738:Telemar Norte Leste S.A.,Brazil,42
+52837:Leucotron Tecnologia da Informação Ltda.,Brazil,55311
+	7738 ? * * 52837
+	7738 ? ? ? 52837
+	7738 ? * ? 52837
+	7738 * * * 52837
+	7738 * * * * 52837
+268324:Provecom Telecomunicacoes Ltda,Brazil,37686
+267954:Vision Infornet Eireli - ME,Brazil,33566
+	268324 * * * 267954
+	268324 * * 267954
+	268324 ? ? 267954
+266167:CELERIX TECNOLOGIA DE TELECOMUNICACOES LTDA,Brazil,720
+264283:Net Triangulo Telecom Ltda - ME,Brazil,9869
+	266167 * * ? 264283
+	266167 ? ? ? 264283
+	266167 * * * 264283
+	266167 ? ? ? ? ? ? ? 264283
+61832:Fortel Fortaleza Telecomunicacoes Ltda,Brazil,74
+263642:Serra Net Telecomunicações e Internet LTDA. - ME,Brazil,25004
+	61832 * * 263642
+264668:NEDETEL S.A.,Ecuador,662
+266783:Anibal Humberto Enriquez Moncayo(Comunicate),Ecuador,25435
+	264668 * * * 266783
+	264668 <> * * * * 266783
+262532:VAS Freitas Servicos de Internet Ltda,Brazil,1918
+267274:GBNET TELECOM LTDA,Brazil,31861
+	262532 * * * 267274
+	262532 * ? ? 267274
+	262532 ? ? ? 267274
+	262532 * * 267274
+61832:Fortel Fortaleza Telecomunicacoes Ltda,Brazil,74
+268921:IDEAL SOLUÇÕES TECNOLÓGICAS LTDA ME,Brazil,31678
+	61832 * ? ? * ? 268921
+	61832 * * * * <> 268921
+10774:AT&T Corp.,United States,5065
+8103:Florida Department of Management Services - Division of Telecommunications,United States,2398
+	10774 * * * * 8103
+28666:HOSTLOCATION LTDA,Brazil,830
+268520:HSP TELECOMUNICAÇÕES EIRELI - ME,Brazil,31569
+	28666 ? ? ? ? ? ? 268520
+	28666 * ? ? ? ? ? 268520
+41032:IQ Networks,Iraq,1095
+202316:Baghdad Link to Internet Services Provider and Information Technology LLC,Iraq,32476
+	41032 * * * 202316
+	41032 ? ? ? 202316
+	41032 * * 202316
+	41032 ? ? 202316
+53062:GGNET TELECOMUNICAÇÕES LTDA,Brazil,110
+269305:George Izui Me,Brazil,33566
+	53062 * * * * 269305
+262760:76 TELECOMUNICAÇÃO LTDA,Brazil,543
+268041:QUEIROZ & MARIA INFORMATICA LTDA,Brazil,33566
+	262760 * * * 268041
+	262760 * * * * 268041
+266167:CELERIX TECNOLOGIA DE TELECOMUNICACOES LTDA,Brazil,720
+268086:WD TELECOM SOLUCOES EM TELECOM E SEGURANCA LTDA,Brazil,33566
+	266167 * * * * 268086
+	266167 * * 268086
+	266167 ? ? 268086
+9230:Bangladesh Online Ltd,Bangladesh,1411
+136211:Epyllion Knitwears Ltd.,Bangladesh,61514
+	9230 * * * * 136211
+	9230 * * * 136211
+	9230 * * 136211
+	9230 ? ? 136211
+9318:SK Broadband Co Ltd,South Korea,88
+9458:Public Officials Benefit Association,South Korea,55311
+	9318 * * 9458
+	9318 ? ? 9458
+	9318 * * * 9458
+	9318 * * * * 9458
+61832:Fortel Fortaleza Telecomunicacoes Ltda,Brazil,74
+52804:ESTREITONET LTDA,Brazil,33566
+	61832 * * * 52804
+327786:4G Telecom,South Sudan,6509
+328546:Trinity Technologies Ltd,South Sudan,33566
+	327786 * * 328546
+	327786 ? ? 328546
+262375:Data Info Comercio e Servico Ltda.,Brazil,1097
+52715:SCORPION TELECOMUNICAÇÃO RIBEIRÃO PRETO LTDA - ME,Brazil,37686
+	262375 * * 52715
+267613:ELETRONET S.A.,Brazil,53
+265171:TECINTEL TELECOM,Brazil,4859
+	267613 ? ? ? 265171
+	267613 ? ? ? ? 265171
+	267613 ? ? ? * ? 265171
+	267613 * * * * 265171
+	267613 * * * 265171
+	267613 ? ? ? ? ? 265171
+136255:Telecom International Myanmar Company Limited,Myanmar,1371
+137826:AST SYSTEM TECHNOLOGY COMPANY LIMITED,Myanmar,10612
+	136255 * ? 137826
+	136255 * * 137826
+	136255 * ? ? 137826
+	136255 ? ? 137826
+	136255 * * * 137826
+19551:Incapsula Inc,United States,323
+393759:City of Austin_ Texas,United States,20049
+	19551 ? ? 393759
+	19551 * * 393759
+24323:aamra networks limited_,Bangladesh,683
+139217:Royal Capital Ltd,Bangladesh,47493
+	24323 * * 139217
+	24323 ? ? 139217
+24122:BDCOM Online Limited,Bangladesh,2573
+38067:Radiant telecommunications,Bangladesh,7508
+	24122 * * 38067
+	24122 ? ? 38067
+8167:Brasil Telecom S/A - Filial Distrito Federal,Brazil,61
+52885:Cooperativa Central Aurora Alimentos,Brazil,54439
+	8167 * * 52885
+52965:1TELECOM SERVICOS DE TECNOLOGIA EM INTERNET LTDA,Brazil,146
+266962:G M DA COSTA INTERNET,Brazil,31519
+	52965 * * 266962
+	52965 ? ? 266962
+133034:Virtual American Companies (BD) Limited,Bangladesh,61514
+137514:Abroad,Bangladesh,37686
+	133034 ? 137514
+1221:Telstra Corporation,Australia,76
+136604:Royal Automobile Club of Victoria Ltd,Australia,19875
+	1221 ? 136604
+	1221 ? 136604
+61832:Fortel Fortaleza Telecomunicacoes Ltda,Brazil,74
+267361:MAXCON Internet,Brazil,37686
+	61832 * * * * 267361
+53062:GGNET TELECOMUNICAÇÕES LTDA,Brazil,110
+264194:NDDigital S/A Software,Brazil,37686
+	53062 ? ? ? ? ? ? ? ? ? ? ? 264194
+	53062 ? ? ? ? ? ? ? ? 264194
+	53062 ? ? ? ? ? ? ? 264194
+	53062 * * 264194
+	53062 ? ? ? * ? ? ? ? ? ? ? ? 264194
+	53062 ? ? ? ? ? * ? ? * * ? 264194
+	53062 * * * 264194
+	53062 ? ? ? ? ? * * ? ? ? ? ? ? ? 264194
+45458:ADVANCED WIRELESS NETWORK COMPANY LIMITED,Thailand,732
+131257:Office of Info.Tech. Admin. for Educational Development,Thailand,61514
+	45458 ? * * 131257
+	45458 * * * 131257
+	45458 ? ? * 131257
+6471:ENTEL CHILE S.A.,Chile,903
+28096:Sociedad de Telecomunicaciones Geonet Ltda.,Chile,27909
+	6471 * * * * 28096
+53062:GGNET TELECOMUNICAÇÕES LTDA,Brazil,110
+265148:Pontonet Computadores e Redes Ltda Epp,Brazil,33566
+	53062 ? ? ? ? ? ? ? ? 265148
+	53062 ? ? ? ? ? * * ? ? ? ? ? ? ? ? ? ? ? ? ? 265148
+	53062 ? ? ? ? ? ? ? ? ? ? ? ? ? ? 265148
+	53062 ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? 265148
+	53062 ? ? ? ? 265148
+	53062 * * * * 265148
+	53062 ? ? * ? ? ? ? ? 265148
+29802:HIVELOCITY_ Inc.,United States,678
+54561:Secure Dragon LLC.,United States,37686
+	29802 * * * 54561
+	29802 * * 54561
+262468:Natel Telecom Ltda. - ME,Brazil,741
+268577:J. K. TELECOM LTDA ME,Brazil,33566
+	262468 * * * * 268577
+29535:Orange Polska Spolka Akcyjna,Poland,274
+43962:INTEN J. Granat,Poland,17316
+	29535 ? 43962
+4755:Tata Communications Limited,India,39
+45219:AEGIS CUSTOMER SUPPORT SERVICES PRIVATE LIMITED,India,29954
+	4755 ? * 45219
+	4755 * * 45219
+	4755 ? ? 45219
+267354:FOREST TELECOM,Brazil,5880
+267986:M & R NETWORK LTDA - ME,Brazil,37686
+	267354 ? ? 267986
+	267354 * ? ? 267986
+	267354 ? ? ? 267986
+	267354 * * 267986
+	267354 * ? 267986
+	267354 * * * 267986
+265111:BR Automacao e Consultoria Ltda,Brazil,2203
+268694:Delta Provedor internet LTDA -ME,Brazil,32476
+	265111 ? 268694
+22927:Telefonica de Argentina,Argentina,130
+264791:COOPERATIVA DE PROVISIÓN DE ELECTRICIDAD Y OTROS SS PUBLICOS CONSUMO Y VIVIENDA DE LEZAMA LTDA,Argentina,28718
+	22927 ? 264791
+28125:Elo.Net Tecnologia Ltda. - ME,Brazil,5945
+263487:Giganet Comunicações Multimidia Ltda,Brazil,24865
+	28125 * * 263487
+	28125 * * * 263487
+41032:IQ Networks,Iraq,1095
+198169:SCIS,Iraq,32476
+	41032 * * 198169
+264575:Nexfibra Telecomunicações Ltda,Brazil,2812
+268113:NETSTORE INFORMÁTICA,Brazil,37686
+	264575 ? 268113
+28598:Mob Servicos de Telecomunicacoes Ltda,Brazil,71
+270265:VAVATEC TELECOMUNICACOES,Brazil,32117
+	28598 * * 270265
+10429:TELEFÔNICA BRASIL S.A,Brazil,35
+264083:CONFEDERACAO BRASILEIRA DE FUTEBOL,Brazil,54306
+	10429 ? 264083
+17072:TOTAL PLAY TELECOMUNICACIONES SA DE CV,Mexico,659
+265534:TELECOMUNICACIONES DIVERSIFICADAS_ S.A. DE C.V.,Mexico,8329
+	17072 * * * 265534
+	17072 ? ? * 265534
+61666:GLOBO INFORMATICA EIRELI,Brazil,2054
+263360:BR MASTER PROVEDOR DE INTERNET LTDA,Brazil,33566
+	61666 * * 263360
+53062:GGNET TELECOMUNICAÇÕES LTDA,Brazil,110
+266373:Justica Federal de Primeiro Grau em Santa Catarina,Brazil,55311
+	53062 ? ? ? ? ? * * ? ? ? ? ? ? ? ? ? 266373
+	53062 ? ? ? ? ? ? ? ? ? ? ? 266373
+	53062 * * 266373
+27501:LasVegas.Net LLC,United States,4386
+1446:Tutor Perini Corporation,United States,47493
+	27501 ? ? ? ? 1446
+	27501 * * * 1446
+	27501 ? ? ? 1446
+	27501 * * * * 1446
+22927:Telefonica de Argentina,Argentina,130
+52291:Coop. Provincia de Serv. Publicos y Comunitarios de Neuquen LTDA.,Argentina,33566
+	22927 ? 52291
+53043:NET VALE LTDA,Brazil,18627
+266149:BDC Telecom,Brazil,33566
+	53043 * * 266149
+	53043 ? ? 266149
+7029:Windstream Communications LLC,United States,69
+33480:Web Werks,United States,7619
+	7029 ? 33480
+	7029 ? 33480
+35346:SC ITNS.NET SRL,Moldova,613
+202469:IPv4 Hosting SRL,Moldova,37686
+	35346 * * * * ? ? 202469
+	35346 * * * * ? * 202469
+58779:i4HK Limited,Hong Kong,2720
+56082:ONENET HK LTD,Hong Kong,15744
+	58779 * * * 56082_9535
+	58779 * * * * 56082_9535
+209:CenturyLink Communications_ LLC,United States,31
+63151:The Children's Place,United States,46810
+	209 ? 63151
+13999:Mega Cable_ S.A. de C.V.,Mexico,869
+28404:Telefonia por Cable_ S.A. de C.V.,Mexico,7043
+	13999 ? * * ? 28404
+	13999 * * * * 28404
+	13999 * * 28404
+	13999 * ? 28404
+	13999 * * * 28404
+58715:Earth Telecommunication ( pvt ) Limited,Bangladesh,332
+136558:MUX TECHNOLOGIES,Bangladesh,37686
+	58715 * * 136558
+	58715 ? 136558
+14080:Telmex Colombia S.A.,Colombia,1490
+28070:Banco Colpatria Red Multibanca Colpatria S.A.,Colombia,61514
+	14080 * * 28070
+	14080 ? * 28070
+209:CenturyLink Communications_ LLC,United States,31
+36602:Dial Global,United States,55311
+	209 * * 36602
+35819:Bayanat Al-Oula For Network Services Limited Co.,Saudi Arabia,579
+44689:Ministry Of Higher Education (MOHE),Saudi Arabia,47493
+	35819 ? * * 44689
+	35819 ? ? ? 44689
+	35819 * * 44689
+	35819 * * * * 44689
+	35819 * ? 44689
+	35819 * * * 44689
+11014:CPS,Argentina,331
+264740:Escobar Arnez Marcelino,Argentina,33566
+	11014 * <> 264740
+53062:GGNET TELECOMUNICAÇÕES LTDA,Brazil,110
+263359:CyberTech Informática Ltda.,Brazil,25435
+	53062 ? ? ? ? ? ? ? ? ? * ? ? 263359
+	53062 ? ? ? ? ? ? * * ? ? ? ? * ? ? 263359
+	53062 * * * 263359
+	53062 ? ? ? ? ? 263359
+	53062 ? ? ? ? * ? ? ? ? * ? ? 263359
+	53062 ? ? ? * ? ? * * ? ? ? ? * ? ? 263359
+	53062 ? ? * ? ? 263359
+	53062 ? * ? ? ? ? ? ? ? ? ? * 263359
+	53062 ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? 263359
+	53062 ? ? ? ? ? ? 263359
+4755:Tata Communications Limited,India,39
+55563:Dr.Reddy's Laboratories Ltd._,India,55311
+	4755 * * 55563
+	4755 ? ? 55563
+4755:Tata Communications Limited,India,39
+135764:National Dairy Development Board,India,61514
+	4755 ? ? 135764
+	4755 * * 135764
+37197:Sudanese Research and Education Network,Sudan,11417
+15706:Sudatel (Sudan Telecom Co. Ltd),Sudan,1570
+	37197 * * 15706
+174:Cogent Communications,United States,3
+54328:The Hinton CATV Company_ Inc.,United States,20236
+	174 ? 54328
+27364:Armstrong,United States,2429
+395905:Sandridge Food Corporation,United States,55311
+	27364 * * * * 395905
+33287:Comcast Cable Communications_ LLC,United States,276
+46469:GETRESPONSE,United States,20236
+	33287 * * * 46469
+266989:ETH ENTERPRISE TECNOLOGIA LTDA,Brazil,1177
+265264:ALHAMBRA EIDOS DO BRASIL SERVICOS E SISTEMAS DE CO,Brazil,19079
+	266989 ? * 265264
+	266989 * * 265264
+262883:Rasche & Stefenon ltda - AlfaNetwork,Brazil,1711
+268269:Prado S & Cia Ltda,Brazil,33566
+	262883 ? ? * 268269
+	262883 ? ? * * * 268269
+	262883 * * * 268269
+205906:SCIS,Iraq,70238
+203459:AL-MARAJ AL-ALAMIYA Co,Iraq,4159
+	205906 * * * * 203459
+8708:RCS & RDS SA,Romania,100
+56458:INNOBYTE SOLUTIONS SRL,Romania,61514
+	8708 * * * 56458
+61832:Fortel Fortaleza Telecomunicacoes Ltda,Brazil,74
+268002:INFORME SERVIÇOS DE PROCESSAMENTO DE DADOS LTDA,Brazil,33566
+	61832 * * * 268002
+	61832 ? ? ? ? ? * 268002
+	61832 * * ? * 268002
+	61832 * ? ? * 268002
+	61832 * * * * 268002
+8053:IFX Networks Venezuela C.A.,Venezuela,2467
+263703:NetLink América C.A.,Venezuela,5259
+	8053 * * 263703
+6306:TELEFONICA VENEZOLANA_ C.A.,Venezuela,5075
+265641:TELECOMUNICACIONES ROCARLI C.A (CIX BROADBAND),Venezuela,10161
+	6306 * * * 265641
+12400:Partner Communications Ltd.,Israel,362
+43423:Israel Postal Company Ltd.,Israel,54654
+	12400 ? 43423
+28666:HOSTLOCATION LTDA,Brazil,830
+263909:Prefeitura Municipal de Santos,Brazil,50888
+	28666 * * * 263909
+59458:Pure Line Co. For Telecommunications & Internet Ltd.,Iraq,9227
+202055:Qemat Al-Wasat Company,Iraq,37686
+	59458 * * 202055
+	59458 ? ? 202055
+26615:TIM S/A,Brazil,58
+11993:BANCO DO BRASIL S.A.,Brazil,11844
+	26615 * * * 11993
+	26615 * * * * 11993
+53062:GGNET TELECOMUNICAÇÕES LTDA,Brazil,110
+268391:Gr@mNet Ltda,Brazil,32117
+	53062 * * 268391
+	53062 * * * * 268391
+7738:Telemar Norte Leste S.A.,Brazil,42
+266208:Allfiber Telecom Serviços de Telecomunicações,Brazil,32476
+	7738 ? ? ? ? ? ? 266208
+	7738 ? ? * * ? 266208
+	7738 ? ? ? ? ? * 266208
+	7738 ? ? * * * 266208
+	7738 * ? ? ? * 266208
+	7738 * ? ? * 266208
+	7738 ? ? ? ? * 266208
+	7738 * ? * ? ? 266208
+	7738 ? ? * ? ? 266208
+	7738 ? ? ? * * 266208
+	7738 * * * 266208
+	7738 * * * * 266208
+	7738 ? ? ? ? ? 266208
+	7738 * ? ? ? 266208
+	7738 ? ? ? * 266208
+45899:Vietnam Posts and Telecommunications (VNPT),Vietnam,287
+45900:Department of Infomatic - The State Bank of Viet Nam,Vietnam,55311
+	45899 ? ? 45900
+41032:IQ Networks,Iraq,1095
+204152:Orient Company for internet services LTD,Iraq,4133
+	41032 * * 204152
+7738:Telemar Norte Leste S.A.,Brazil,42
+266069:Banco BMG S.A.,Brazil,31952
+	7738 * * * 266069
+	7738 ? * ? ? 266069
+	7738 ? ? ? ? 266069
+	7738 * * * * 266069
+37119:UNITEL SA,Angola,2918
+37036:Banco de Fomento Angola_ S.A,Angola,55311
+	37119 * * * * 37036
+	37119 * * * 37036
+	37119 ? ? ? 37036
+8048:CANTV Servicios_ Venezuela,Venezuela,894
+19192:Universidad Central de Venezuela,Venezuela,12319
+	8048 ? ? ? ? 19192
+	8048 * * * * 19192
+53062:GGNET TELECOMUNICAÇÕES LTDA,Brazil,110
+264364:T. B. VALENTE & CIA LTDA,Brazil,33566
+	53062 * * * 264364
+135772:Powernet Communications Pvt.ltd.,India,2824
+136362:Yes India Communications Pvt. Ltd,India,33566
+	135772 * * 136362
+61832:Fortel Fortaleza Telecomunicacoes Ltda,Brazil,74
+262404:JC TELECOM SERVICOS DE TELECOMUNICACOES LTDA EPP,Brazil,5840
+	61832 ? ? 262404
+	61832 * * 262404
+136255:Telecom International Myanmar Company Limited,Myanmar,1371
+137861:Myanmar World Distribution Telecommunication Company Limited,Myanmar,61514
+	136255 * * * * 137861
+	136255 * ? 137861
+	136255 ? ? 137861
+	136255 * * * 137861
+	136255 * * 137861
+	136255 * ? ? 137861
+53062:GGNET TELECOMUNICAÇÕES LTDA,Brazil,110
+267358:HD COMUNICAÇÕES LTDA EPP,Brazil,44054
+	53062 ? ? ? 267358
+	53062 ? ? ? ? ? ? ? ? ? ? 267358
+	53062 * * * 267358
+	53062 ? ? ? ? ? ? ? ? ? ? ? 267358
+	53062 ? ? ? ? ? ? ? ? ? ? ? ? ? ? 267358
+	53062 ? ? ? ? ? * * ? ? ? ? ? ? ? ? ? 267358
+	53062 * * * * 267358
+13999:Mega Cable_ S.A. de C.V.,Mexico,869
+265517:SMARTNETT CARRIER SA DE CV,Mexico,37686
+	13999 * * * 265517
+	13999 ? ? ? 265517
+	13999 ? ? ? ? ? 265517
+8048:CANTV Servicios_ Venezuela,Venezuela,894
+27892:Universidad del Zulia,Venezuela,14388
+	8048 ? ? ? ? 27892
+	8048 * * * 27892
+	8048 * * * * 27892
+52665:AUTOSERVICO Processamento de Dados Ltda.,Brazil,4828
+265133:Radius,Brazil,37686
+	52665 * * 265133
+	52665 * ? 265133
+23949:PT Comtronics Systems,Indonesia,2585
+139932:DINAS KOMUNIKASI DAN INFORMATIKA KABUPATEN KARAWANG,Indonesia,55311
+	23949 ? 139932
+6939:Hurricane Electric LLC,United States,7
+40679:Integral Web Services LLC,United States,70238
+	6939 * * 40679
+9318:SK Broadband Co Ltd,South Korea,88
+23572:American International Assurance Company Korea,South Korea,47493
+	9318 ? ? ? 23572
+	9318 ? ? 23572
+	9318 * ? 23572
+	9318 * * * * 23572
+	9318 * * * 23572
+	9318 ? * ? 23572
+	9318 * * 23572
+	9318 ? ? ? ? 23572
+	9318 ? * 23572
+7738:Telemar Norte Leste S.A.,Brazil,42
+61721:PETROLEO BRASILEIRO S.A. - PETROBRAS,Brazil,61514
+	7738 ? ? ? ? 61721
+	7738 ? ? ? ? ? ? ? ? ? 61721
+	7738 ? ? * ? ? ? ? ? ? 61721
+	7738 * ? ? ? 61721
+	7738 * ? * ? ? ? ? 61721
+	7738 ? ? ? ? ? ? ? 61721
+	7738 * ? * ? ? * ? ? ? ? 61721
+	7738 * ? * * * ? ? ? ? ? 61721
+	7738 ? ? * ? 61721
+	7738 * ? * ? 61721
+	7738 * ? * * ? ? ? 61721
+	7738 ? ? ? ? ? 61721
+	7738 * * * * 61721
+	7738 * ? * * * * ? ? ? 61721
+	7738 ? ? ? * ? ? ? 61721
+	7738 * ? ? * ? 61721
+9318:SK Broadband Co Ltd,South Korea,88
+7560:Jeonbuk National University,South Korea,13221
+	9318 ? ? ? 7560
+	9318 * ? ? 7560
+	9318 * * 7560
+	9318 ? ? * 7560
+	9318 * * * * 7560
+	9318 * ? 7560
+	9318 * * * 7560
+	9318 ? * 7560
+	9318 ? ? 7560
+	9318 ? * * 7560
+	9318 * * ? 7560
+7738:Telemar Norte Leste S.A.,Brazil,42
+264919:Ultraceu Ltda,Brazil,33566
+	7738 * * * * 264919
+	7738 * ? ? ? 264919
+	7738 ? ? ? ? 264919
+27506:Sidera Networks LLC,United States,2017
+16620:Alcazar Networks_ Inc,United States,25435
+	27506 * * 16620
+	27506 ? ? 16620
+3549:Level 3 Parent_ LLC,United States,13
+395578:Warren Averett Technology Group,United States,70238
+	3549 ? 395578
+31133:PJSC MegaFon,Russia,28
+201717:"66 Parallel" LLC,Russia,61514
+	31133 ? * ? ? ? ? 201717
+	31133 * * * ? ? ? 201717
+	31133 ? * * ? ? ? 201717
+7738:Telemar Norte Leste S.A.,Brazil,42
+28652:Telecomunicações Nordeste Ltda.,Brazil,13863
+	7738 * ? ? * ? 28652
+	7738 ? ? ? * * 28652
+	7738 * * * * 28652
+	7738 ? ? ? ? 28652
+	7738 ? ? ? * ? 28652
+	7738 ? ? ? * 28652
+	7738 * ? ? ? 28652
+27506:Sidera Networks LLC,United States,2017
+32923:SILVER POINT CAPITAL_ L.P.,United States,55311
+	27506 * * 32923
+9318:SK Broadband Co Ltd,South Korea,88
+9948:NICE TCM,South Korea,47493
+	9318 * * 9948
+	9318 * * * * 9948
+45147:Corporate / Direct Member IDNIC,Indonesia,439
+135445:PT. Airpay International Indonesia,Indonesia,24435
+	45147 ? 135445
+7738:Telemar Norte Leste S.A.,Brazil,42
+265064:Agência de Tecnologia da Informação do Piauí ATI,Brazil,47493
+	7738 ? ? ? 265064
+	7738 * * * 265064
+	7738 ? ? ? ? 265064
+	7738 * ? ? 265064
+61832:Fortel Fortaleza Telecomunicacoes Ltda,Brazil,74
+267541:BRASILNET INTERNET BANDA LARGA LTDA-ME,Brazil,9749
+	61832 * * 267541
+	61832 ? * 267541
+61832:Fortel Fortaleza Telecomunicacoes Ltda,Brazil,74
+265312:Portal Conexão Ltda,Brazil,32476
+	61832 * ? ? ? ? ? ? 265312
+9829:Bharat Sanchar Nigam Ltd,India,533
+132527:Department of Posts,India,37686
+	9829 * * * * 132527
+	9829 * * 132527
+	9829 * * * 132527
+22927:Telefonica de Argentina,Argentina,130
+52317:Internet Winds AG,Argentina,33566
+	22927 ? 52317
+3816:COLOMBIA TELECOMUNICACIONES S.A. ESP,Colombia,1493
+27753:Coomeva Cali Principal,Colombia,61514
+	3816 * * 27753
+264531:ULTRA TELECOM,Brazil,3985
+265331:M. R. MELO ALEXANDRINO,Brazil,37686
+	264531 ? ? 265331
+	264531 * * 265331
+16629:CTC. CORP S.A. (TELEFONICA EMPRESAS),Chile,1033
+23416:Telefonica Data Chile S.A.,Chile,20789
+	16629 * * * 23416
+19114:Otecel S.A.,Ecuador,661
+52331:CORPORACION FINANCIERA NACIONAL,Ecuador,50888
+	19114 * * 52331
+8637:SpainWISP_ S.L.,Spain,1770
+62235:Albacete Sistemas y Servicios SL,Spain,7299
+	8637 ? 62235
+267613:ELETRONET S.A.,Brazil,53
+265961:PAULA SILVA DE OLIVEIRA - ME,Brazil,33566
+	267613 * * * 265961
+	267613 ? ? ? * 265961
+	267613 ? ? 265961
+	267613 * * 265961
+58463:PT.PGAS TELEKOMUNIKASI NUSANTARA,Indonesia,196
+63873:PT Mitra Akses Globalindo,Indonesia,8929
+	58463 ? 63873
+	58463 ? 63873
+	58463 * * 63873
+	58463 ? 63873
+45538:Online data services,Vietnam,2340
+63765:Ligh technology viet joint stock company,Vietnam,25435
+	45538 * * 63765
+	45538 ? ? 63765
+20257:Farmers Telephone Cooperative_ Inc.,United States,7110
+26081:Santee Cooper,United States,14316
+	20257 * * * * 26081
+	20257 * * * 26081
+	20257 ? ? 26081
+	20257 ? ? ? 26081
+	20257 * ? 26081
+	20257 ? * 26081
+	20257 * * 26081
+61832:Fortel Fortaleza Telecomunicacoes Ltda,Brazil,74
+264158:E QUARESMA NETO PROVEDORES EIRELI - ME,Brazil,25435
+	61832 * * ? ? ? ? ? ? 264158
+	61832 ? * ? ? ? ? ? ? 264158
+	61832 ? * ? ? ? ? ? ? ? ? 264158
+26615:TIM S/A,Brazil,58
+262714:Empresa Municipal de Informatica s/a,Brazil,20049
+	26615 * * * * 262714
+	26615 * * 262714
+45117:Ishan's Network - Allocated -Prime,India,459
+137174:Airwire Infocom Private Limited,India,44438
+	45117 * * 137174
+174:Cogent Communications,United States,3
+18793:Com-Pair Services,United States,25423
+	174 ? 18793
+8047:GENERAL COMMUNICATION_ INC.,United States,1362
+40226:Alaska USA Federal Credit Union,United States,33566
+	8047 ? ? * ? ? ? 40226
+	8047 ? ? ? ? ? ? 40226
+	8047 * * * * 40226
+	8047 ? ? ? ? 40226
+4766:Korea Telecom,South Korea,47
+9761:KUMHO,South Korea,11315
+	4766 * * * 9761
+	4766 * * 9761
+	4766 * * * * 9761
+52965:1TELECOM SERVICOS DE TECNOLOGIA EM INTERNET LTDA,Brazil,146
+262490:Ambiente Virtual Sistemas e Conectividade Ltda,Brazil,25114
+	52965 * * 262490
+	52965 * ? 262490
+	52965 ? ? 262490
+27947:Telconet S.A,Ecuador,759
+28097:Farcomed,Ecuador,47493
+	27947 * * 28097
+	27947 * * * 28097
+	27947 <> * * * 28097
+42337:Respina Networks & Beyond PJSC,Iran,297
+16322:Pars Online PJS,Iran,706
+	42337 ? 16322
+29286:SKYLOGIC S.P.A.,Italy,5119
+201935:Skylogic Mediterraneo s.r.l,Italy,7152
+	29286 ? ? ? ? ? ? ? 201935
+	29286 * * * * 201935
+	29286 ? ? * * 201935
+	29286 ? ? ? ? 201935
+	29286 ? ? ? ? ? ? 201935
+	29286 ? ? ? * * 201935
+	29286 ? ? ? ? ? * * 201935
+	29286 ? ? ? ? ? ? ? ? 201935
+	29286 ? ? ? ? * * 201935
+	29286 * ? ? ? ? ? 201935
+	29286 * ? ? ? ? 201935
+	29286 ? ? ? ? ? 201935
+4755:Tata Communications Limited,India,39
+55764:HINDUJA GLOBAL SOLUTIONS LTD,India,44438
+	4755 * * 55764
+	4755 ? ? 55764
+53132:Mega Grupo de Telecomunicações Ltda,Brazil,2163
+267014:TOTALL NET LTDA-ME,Brazil,37686
+	53132 * * * * 267014
+4766:Korea Telecom,South Korea,47
+55599:namyang,South Korea,43762
+	4766 * * 55599
+	4766 * * * 55599
+	4766 * * * * 55599
+132298:Antaranga Dot Com Ltd,Bangladesh,1712
+139004:RL CAFE NET,Bangladesh,37686
+	132298 * * 139004
+	132298 ? ? 139004
+	132298 ? * 139004
+	132298 ? 139004
+45786:Koperasi PRIMKOKAS,Indonesia,2813
+135488:PT OTHMAR MATRA MEDIA,Indonesia,33566
+	45786 ? 135488_137380
+267613:ELETRONET S.A.,Brazil,53
+264960:R L GUIMARAES TELECOMUNICACAO - ME,Brazil,2855
+	267613 ? ? 264960
+	267613 * * 264960
+	267613 * * * ? ? 264960
+	267613 ? ? ? ? 264960
+	267613 ? ? ? 264960
+	267613 * * * * 264960
+	267613 ? * ? 264960
+	267613 * * * 264960
+53087:TELY Ltda.,Brazil,137
+53123:Power Telecomunicações Ltda. - ME,Brazil,19827
+	53087 * * * 53123
+	53087 * * 53123
+61832:Fortel Fortaleza Telecomunicacoes Ltda,Brazil,74
+266353:REDE BJNET TELECOMUNICAÇÕES LTDA-ME,Brazil,32476
+	61832 * ? ? ? ? ? ? 266353
+9318:SK Broadband Co Ltd,South Korea,88
+9493:HMC SECURITIES CO._ LTD.,South Korea,46264
+	9318 * * * 9493
+	9318 ? * 9493
+	9318 * * * * 9493
+	9318 * ? 9493
+	9318 * * 9493
+	9318 ? ? ? ? 9493
+	9318 ? ? 9493
+	9318 ? ? ? 9493
+3269:Telecom Italia S.p.A.,Italy,190
+49640:S.P.E.Sistemi e Progetti Elett,Italy,24701
+	3269 * * * 49640
+8708:RCS & RDS SA,Romania,100
+31244:MY SERVER MEDIA SRL,Romania,8232
+	8708 * * * 31244
+4766:Korea Telecom,South Korea,47
+45397:KOREA FOUNDATION FOR THE PROMOTION OF PRIVATE SCHOOL,South Korea,55311
+	4766 * * * 45397
+	4766 * * 45397
+14615:Comporium_ Inc,United States,2427
+3955:Compucom Systems,United States,11279
+	14615 * * * ? 3955
+	14615 * * * * 3955
+27717:Corporacion Digitel C.A.,Venezuela,2694
+19192:Universidad Central de Venezuela,Venezuela,12319
+	27717 * * 19192
+	27717 ? ? 19192
+41032:IQ Networks,Iraq,1095
+203653:Noor Al-Qamar Co. For Internet Ltd.,Iraq,32476
+	41032 * * 203653
+33544:WiLine Networks Inc.,United States,2688
+40009:BitGravity_ Inc.,United States,14115
+	33544 * * 40009
+	33544 * * * * 40009
+	33544 ? ? ? ? ? ? ? ? ? ? ? ? ? 40009
+267613:ELETRONET S.A.,Brazil,53
+263086:PBNET TELECOM,Brazil,4031
+	267613 ? ? 263086
+	267613 * * 263086
+45820:TTSL-ISP DIVISION,India,113
+136326:Varesha Air World Networks Pvt Ltd,India,47493
+	45820 * * 136326
+263327:ONLINE SERVICOS DE TELECOMUNICACOES LTDA,Brazil,1178
+268174:SAMUEL ARAUJO RIBEIRO,Brazil,37686
+	263327 * * 268174
+	263327 * * * 268174
+20473:Choopa_ LLC,United States,104
+139073:HostUS Solutions LLC,United States,70238
+	20473 * * * 139073
+16610:Bluebird Wireless Broadband Services_ L.L.C.,United States,6038
+30704:BOWMAN SYSTEMS_ LLC,United States,55311
+	16610 * * 30704
+	16610 ? ? ? ? 30704
+	16610 * * * * 30704
+7049:Silica Networks Argentina S.A.,Argentina,148
+263244:Iperactive SA,Argentina,8202
+	7049 * * 263244
+	7049 * * * * 263244
+	7049 ? * 263244
+265641:TELECOMUNICACIONES ROCARLI C.A (CIX BROADBAND),Venezuela,10161
+269876:SUMINISTROS PCWESTERN_ CA,Venezuela,50888
+	265641 * ? 269876
+	265641 * * 269876
+57724:DDOS-GUARD LTD,Russia,186
+44128:Internet-Pro LLC,Russia,7894
+	57724 ? 44128
+	57724 ? 44128
+31027:GlobalConnect NN A/S,Denmark,316
+198455:Danmarks Tekniske Universitet,Denmark,25114
+	31027 ? 198455
+7738:Telemar Norte Leste S.A.,Brazil,42
+263095:Mineração Curimbaba Ltda.,Brazil,55311
+	7738 ? ? ? ? 263095
+	7738 * ? ? ? 263095
+	7738 * * * * 263095
+	7738 * ? ? * 263095
+28667:NETWORK TELECOMUNICACOES LTDA,Brazil,3899
+61818:Miriam dos Santos Oliveira ME,Brazil,33566
+	28667 * * 61818
+27947:Telconet S.A,Ecuador,759
+265787:MERCREDI S.A.,Ecuador,8985
+	27947 * * 265787
+	27947 * * * 265787
+10429:TELEFÔNICA BRASIL S.A,Brazil,35
+263959:FLEXTEL NETWORK TELECOMUNICACOES EIRELI - ME,Brazil,2053
+	10429 ? 263959

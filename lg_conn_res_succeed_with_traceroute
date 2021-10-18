@@ -1,0 +1,380 @@
+https://www.net.wisc.edu/cgi-bin/public/lg-as59.pl
+https://www.net.princeton.edu/traceroute.html
+https://gins.garr.it/LG/
+http://www.cogentco.com/en/network/looking-glass #需要人工检查
+https://lg.iucc.ac.il/ #需要人工检查
+http://route-server.belwue.net/summary/route-server/ipv4
+https://www.switch.ch/network/tools/ipv6lookingglass/
+https://www.switch.ch/network/tools/lookingglass/
+https://www.switch.ch/network/tools/traceroute/ #重复
+https://www.noc.dfn.de/lg
+http://www.rediris.es/red/lg/
+http://aurora.on.tac.net/
+https://www.telstra.net/cgi-bin/trace
+http://ping.unesp.br/cgi-bin/traceroute.pl #安全问题
+http://www.han.de/cgi-bin/nph-trace.cgi
+https://lg.telia.net/  #需要人工验证
+http://lg.hopus.net/ #每一个eye都无法traceroute
+http://lg.as1403.net
+https://lookingglass.sunet.se/lg.cgi
+https://lg.telia.net/ #重复
+http://memoria.rnp.br/ip/lg.php
+http://lg.telenor.net/mod-perl/lg
+https://lg.wiscnet.net/lg/
+http://vger.kernel.org/traceroute.html #只有一个eye，且“Bad response. The server or forwarder response doesn't look like HTTP.”
+http://lg.nordu.net/lg.cgi
+http://looking-glass.connect.com.au/lg
+https://lg.cesnet.cz/
+http://www.rlp-net.net #‘Internal Server Error’
+http://lg.gldn.net/
+http://lg.uar.net/
+http://www.as3257.net/lg/ #需要人工验证
+https://lg.telia.net/ #重复
+https://lg.telia.net/ #重复
+http://lg.as3326.net
+https://lookingglass.centurylink.com/
+http://ipstats.globalcrossing.net/dotcom/link7r.shtml?mode=r2h&type=trace
+http://www.slac.stanford.edu/cgi-bin/nph-traceroute.pl?choice=yes
+http://looking-glass.iinet.net.au/
+http://lg.idola.net.id/
+http://looking-glass.iinet.net.au #重复
+http://www.linkwan.com/en/vr.asp #Java support required!
+http://tools.vocus.com.au/lg/
+http://rr.netins.net/lg/
+https://mon.grnet.gr/lg/
+http://coyote.olsson.net/lg/
+http://www.interworld.net/cgi-bin/nph-traceroute.cgi #网址不再存在
+http://www.ntplx.net/traceroute/ #需要人工验证
+http://lg.rcn.net/lgform.cgi
+http://www.spfld.com/traceroute.html #不响应
+http://www.opus1.com/www/looking.html #恶意网站
+http://www.opus1.com/www/traceroute.html #可能恶意，不再检查
+http://www.fifi.org/services/traceroute
+http://noc.forethought.net/debug/netcheck.html #结果经过了dns解析，需要反解析
+https://www.posttechnologies.lu/operators/support/e-services/looking-glass #需要人工验证
+http://cgi.ipartners.pl/cgi-bin/traceroute.cgi
+http://lg.iranet.ir
+http://netmon.acad.bg/lg
+http://noc.ic.km.ua/cgi-bin/trace #没有回应
+http://lg.espanix.net/summary/baja+alta/ipv4 #traceroute没有回应
+https://lg.he.net/
+https://lg.edgeuno.com/ #没有回应
+http://integra.net/lg/ #回应错误
+http://lg.aarnet.edu.au
+http://lg.iix.net.id/cgi-bin/lgform.cgi #router unreachable
+http://lg.esc.net.au/
+http://lg.zettagrid.com/lg/
+https://www.tumori.nu/IPv6/traceroute.html #提交表格不安全
+http://as7684.bgp4.jp/ #IPv6 lg
+https://lg.telin.co.id/lgnew/index.php #需要人工验证
+http://lg.mohonmaaf.com #traceroute不成功
+http://lg.as8218.eu
+http://lg.evolink.net
+http://www.radio-msu.net/se_traceroute.htm
+http://lg.rtcomm.ru
+http://lg.gldn.net/ #重复
+http://services.utanet.at/traceroute/trace.html #响应说找不到路线
+https://lg.atom86.net/ #代码运行显示readtimeout
+http://www.macomnet.net/testlab/cgi-bin/nph-trace?
+https://portal.etsi.org/webstats/traceroute.asp #提交表格不安全
+http://lg.naukanet.ru/
+http://www.kamp-lookingglass.de/
+http://glass.cprm.net/bgp.html
+http://www.as8681.net/klg.php #no answer
+http://traceroute.zyx.ro/
+http://noc.ic.km.ua/cgi-bin/lg.cgi #no answer
+https://lg.telia.net/ #重复
+http://lg.sdv.fr/
+http://traceroute.sdv.fr/ #重复
+https://lg.ucom.am/
+http://lg.emix.net.ae/lg
+https://www.ping.eu/ #需要人工验证
+http://tools.webpartner.dk/traceroute.html
+http://lg.online.kz/ #需要人工验证
+http://as9370.bgp4.jp/
+http://as9371.bgp4.jp/
+http://looking-glass.iprimus.net.au/lg #重定向至http://tools.vocus.com.au/lg
+http://lg01.colo01.bbtower.ad.jp/
+http://www.hafey.org/cgi-bin/trace.sh
+http://looking-glass.uecomm.net.au/
+http://www.bluemoon.net/trace.html
+https://network-tools.com/ #需要人工验证
+http://lg.as10929.net
+http://davespeed.com/cgi-bin/traceroute.cgi
+http://lg.unlimitednet.us/
+http://lg.sfmix.org/cgi-bin/bgplg #不响应
+http://lg.invitel.net
+http://lg.ip.rt.ru/prefix_detail/NordWest+Moscow+FarEast+Siberia+Volga+Ural+South/ipv4?q=8.8.8.8 #traceroute无响应
+http://www.globedom.com/cgi-bin/trace
+http://www.bibiesse.org/finder.shtml #没反应
+https://www.seeweb.it/data-center/traceroute-diretto
+https://lg.ti.ru/
+https://www.ncc.itgate.net/lg #需要人工验证
+https://www.sixxs.net/tools/traceroute/ #traceroute disabled
+https://ring.nlnog.net/ #需要加入NLNOG RING
+https://www.as13030.net/looking-glass.php
+https://www.init7.net/de/infrastruktur/tools/ #重复
+http://noc.thunderworx.net/cgi-bin/public/traceroute.pl
+http://traceroute.fmc.lu/
+http://lg.bite.lt
+http://lg.as13746.net #traceroute不响应
+http://vger.kernel.org/traceroute.html #Bad response. The server or forwarder response doesn't look like HTTP.
+http://lg.grupogtd.com/ #需要人工验证
+http://lg.netnation.com/summary/lg/ipv4 #页面打不开
+http://lg.as14442.net
+http://customers.datapipe.net/trace.pl
+http://noc.fregat.net/lg #需要login
+https://www.rhnet.is/cgi-bin/nlg/lg.cgi
+https://www.rhnet.is/cgi-bin/rh-traceroute
+http://peering.sfr.net/index.php?task=lg #需要人工验证
+http://lg.connesi.it/ #需要人工验证
+http://lg.ix.net.ua/
+http://lg.bix.bg/
+http://lg.atman.pl/
+http://support.wnet.ua/lg.php #需要人工验证
+http://noc.altecom.net/lg.phtml #无响应
+http://lg.telecoms.bg/
+http://lg.telecoms.bg/ #重复
+https://lg.leasewebstatus.com/ #需要人工验证
+https://lg.ovh.net
+http://lg.mbix.ca/cgi-bin/bgplg
+http://lg.alog.com.br/
+http://lookingglass.opt.nc
+http://lg.les.net/cgi-bin/bgplg
+http://lg.isomedia.com/
+http://lg.egihosting.com
+http://irr.bboi.net/cgi-bin/lg.cgi #所有命令没有响应
+http://irr.wvfiber.net/cgi-bin/lg.cgi #与上一个重复
+http://lg.subrigo.net/ #traceroute没有响应
+http://vger.kernel.org/traceroute.html #重复
+http://lg.as19531.net/
+http://lg.joesdatacenter.com
+http://lg.buf1.as20278.net/
+http://lg.chi1.as20278.net/
+http://speedtest.choopa.net/
+https://lg.gitoyen.net/summary/whiskey+vodka+x-ray/ipv4
+https://lg.core.heg.com
+https://lg.etop.pl/ #需要人工验证
+http://lg.topnet.ua
+https://lg.itandtel.at/
+http://isp.vsi.ru/looking_glass.html #traceroute无响应
+https://www.graupe.de/cgi-bin/traceroute.pl #提交表格不安全
+http://lg.zsttk.ru/ #traceroute 8.8.8.8都trace不出来
+https://lg.ggamaur.net/
+https://as21351.mq/looking-glass/ #traceroute failed
+https://noc.tnib.de/lg/
+http://lg.flex.ru/
+https://registro.br/cgi-bin/nicbr/trt #需要cookie验证，没搞定
+http://www.ispnet.net/cgi-lgpublic/lgform.cgi #没有router
+https://www2.ispnet.net/cgi-lgpublic/lgform.cgi #没有router
+http://ez.net.id/webb/lglass/lg.php #Target hostname: reverse resolving failed
+https://lg.channel-11.net/
+http://network.sg.gs/lg/
+http://tools.virtutel.com.au/lg/lg.cgi
+http://lg.atman.pl
+http://lg.atman.pl/ #重复
+https://lg.netcetera.co.uk/ #traceroute失败
+http://www.kloth.net/services/traceroute.php
+https://noc.gaertner.de/cgi-bin/looking-glass.cgi
+https://lg.as24961.net/
+https://lg.masterinter.net/
+http://www.mik.ua/lglass.php #traceroute不响应
+http://toolbox.3gnt.net/network/ #网页跳转，没搞定
+http://www.3gnt.net/suporte.html #重复
+http://lg.megafon.ru/ #需要人工验证
+https://www.as25369.net/
+http://lg.arpnetworks.com/
+https://www.active24.cz/lg/lg.cgi
+https://cyfra.ua/ru/lg
+http://lg.alsysdata.net/
+https://lg.as25577.net/
+http://looking-glass.ventraip.com.au/ #http 502
+http://lg.hugeserver.com/ #traceroute没反应
+http://lg.arpnetworks.com/ #重复
+http://lg.as26320.net
+http://lg.alog.com.br #traceroute没反应
+http://www.linkwan.com/en/vr.asp?location=tw #Java support required!
+https://lg.clearfly.net/cgi-bin/bgplg/
+http://www.towardex.com/cgi-bin/lg.cgi
+http://lg.certto.com.br/lg
+http://lg.itsbrasil.net #关闭连接
+http://lg.ensite.com.br/
+https://lg.g8.net.br/
+http://lg.netbotanic.com.br/lg.php
+http://lg.contato.net/cgi-bin/bgplg
+http://lg.gtu.net.ua/
+http://lg.naukanet.ru/ #traceroute没反应
+http://looking-glass.galacsys.net/
+http://www.as29140.net/cgi-bin/bgplg
+http://www.traceroutegateway.de/ #错误地址
+http://lg.mastertel.ru/
+http://www.predkosci.pl/lg
+http://lg.nodex.ru #traceroute失败
+https://lg.kivix.net/summary/rs1+rs2/ipv4 #traceroute无响应
+http://bandit.probe-networks.de/cgi-bin/trace
+http://probe-networks.de/lg/
+http://lg.appnexus.com/
+http://lg.opticfusion.net
+http://lg-phoenix.serverhub.com/
+http://lg.gtc.su/
+http://www.as30781.net/nettools/looking_glass/
+https://lg.combahton.net/ #traceroute timeout
+http://noc.sileman.pl/
+http://lg.proc.ru/ #traceroute没反应
+http://lg.marwan.ma/
+http://lg.sbb.rs
+http://lg.avelacom.ru/ #需要人工验证
+https://lg.starnet.md
+http://nemox.net/traceroute/
+http://lg.romnet.org #traceroute无响应
+https://lg.transtelco.net/
+https://lg.liquidweb.com
+https://www.steadfast.net/support/networktest.php
+http://noc.interscholz.net/net2/ #traceroute无响应
+http://lg.core-backbone.com/
+https://lg.ntt.lt/
+http://www.rack66.com/?p=traceroutepage&level=6 #无法输入
+http://lg.cosmonova.net.ua/
+http://lg.as35266.net/
+http://traceroute.lagis.at/ #需要缓存参数
+http://lg.coolhousing.net/
+https://lg.adamo.es/ #traceroute失败
+http://lg.limeline.sl/
+http://www.speedtest.com.sg/
+http://www.totiig.net/lg
+http://lg.grahamedia.net.id/
+http://lg.sbp.net.id
+http://lg.firenet.com.au/lg
+http://lg.i4networks.nl/lg.cgi
+http://lg.sitel.net.pl/
+http://lg.unix-solutions.be/
+http://lg.lax.psychz.net/
+http://lg.omnilance.com
+https://as41103.net/cgi-bin/bgplg
+https://www.wk.se/verktyg/traceroute.pl #收费
+https://www.as42093.net/lg.php
+http://lg.tbros.net/ #自动dns
+http://lg.as42455.net/
+https://lg.anexia-it.com/lg/ #错误
+http://lg.as42695.net/ #traceroute无响应
+http://lg.fotontel.ru
+https://lg.rezopole.net/summary/vm-birdlg/ipv4
+https://lg.as43289.net/
+http://lg.veesp.com #traceroute没反应
+http://lg.netdirekt.com.tr/
+http://lg.cln.net/ #traceroute无响应
+http://lg.tre.se/
+http://lg.first-colo.net/
+http://lg.bulgartel.bg/
+http://tools.thecore.net.au/lg/ #traceroute无响应
+https://lg.23media.com
+http://lg.nessus.at/lg
+http://lg.as47869.net/ #需要人工验证
+http://lg.ciklet.net.tr
+http://www.moja-ip.sk/traceroute #traceroute无响应
+http://lg.mtw.ru/ #代码里接收一直超时
+http://lg.cable.st/
+https://lg.milecom.ru/ #traceroute不响应
+http://lg.neocarrier.com/
+https://lg.kapper.net/
+https://lg.hamburg.freifunk.net/start #traceroute不响应
+http://lg-en.dtln.ru/ #不停刷新，没搞定
+http://lg-frankfurt.serverhub.com/
+http://lg.aplitt.net/
+https://lg.selectel.ru #不停刷新，没搞定
+http://lg.eleusi.com
+http://lg.truenetwork.ru/
+http://lg.nexthop.no/prefix_detail/rr1-hmg9-osl-no+rr1-s121-osl-no/ipv4?q=lg.nexthop.no #tracerote无响应
+https://lg.plutex.de/
+https://lg.custdc.net
+https://lg.blix.com/summary/lg/ipv4
+http://lg.campus-rv.net/
+https://lg.serverius.net/
+https://lg.trinaps.net/ #需要人工验证
+https://lg.grenode.net/summary/safran+batture/ipv4
+http://lg.mediainvent.net
+http://lg.as51326.net/ #没有traceroute
+http://lg.arpnet.pl/
+http://lg.ek-media.nl/summary/dlt.core/ipv4
+http://lg.iveloz.net.br
+http://lg.uepg.br/
+http://lg.gegnet.com.br #tracerote无响应
+http://lg.k2telecom.net.br/
+http://lg.teletalk.net.br/lg/ #traceroute返回一个*
+http://tools.totaluptime.com/ #跳转页面搞不定
+https://www.as53767.net/lg.php #tracerote无响应
+http://lg.comfortel.pro/
+https://lg.is1net.net/ #需要人工验证
+https://lg.wirehive.net/summary/lg/ipv4
+https://lg.datahata.by/cgi-bin/bgplg
+http://lg.sdi.net.id/
+http://lg.nitex.cz/
+http://at.edis.at
+http://lg.faraso.org/ #没搞定
+http://us-looking-glass.battle.net/ #只能traceroute固定地址
+http://kr-looking-glass.battle.net/ #页面打不开
+http://eu-looking-glass.battle.net/ #页面打不开
+https://lg.medkirov.ru/
+http://lg.secureax.com/
+http://lg.ginernet.com/
+http://lg.jettel.pl/
+http://lg.zug.sinavps.ch/
+http://as59816.net/ #需要人工验证
+http://lg.ist.citynethost.com/
+https://lg.amigonet.cz/
+https://tools.csti.ch/
+https://lg.ldn-fai.net/summary/cannibalon+eternium/ipv6
+http://lg.as60362.net/summary/router1.paris1/ipv4
+http://lg-dro.liteserver.nl/ #页面打不开
+http://lg.regnets.ru/ #tracerote无响应
+https://lg.parvati.it/ #不允许自动查询
+http://lg-nz.zappiehost.com/
+http://lg-za.zappiehost.com/
+http://lg.as61349.net/summary/lg.rtd+lg.spk/ipv4 #tracerote无响应
+https://baehost.com/es-int/looking-glass/
+https://gthost.com/looking-glass/
+http://lg-dallas.serverhub.com/
+http://ipms.chinatelecomglobal.com/public/lookglass/lookglassDisclaimer.html
+https://bknix.co.th/en/lg #traceroute不成功
+https://lg.coloau.com.au/
+http://lg.as64476.net/
+http://www.jetspotspeed.com/
+http://lg.imcloud.tw/
+http://ip6.ch/#lookingglass #tracerote无响应
+https://lg.premium-datacenter.de/ #页面打不开，可以再试
+http://noc.tomkow.pl/ #tracerote无响应
+https://lg.tetaneutral.net/summary/h7/ipv4
+http://lg.netcup.net/ #需要人工验证
+http://lg.bgp4.pl/
+http://www.netskin.com/noc/lg #tracerote无响应
+http://lg.sameswireless.fr/summary/sameslns3/ipv4 #tracerote返回无效数据
+https://lg.qonnected.net/
+https://network.feral.io/looking-glass #tracerote无响应
+http://lg.polineo.pl/ #tracerote无响应
+http://lg.sea.spartanhost.net/ #tracerote无响应
+http://as201206.net/
+http://lg.interka.pl/vylg #tracerote无响应
+http://lg.blueskysystems.co.uk #需要人工验证
+https://lg.edsi-tech.com/
+https://lg.alt.tf/
+http://lg2.it-communicationsltd.co.uk/
+http://lg.terrahost.no/
+http://lg.hostoweb.com/
+https://lg.as204003.net/
+https://mtr.sh/ #没搞定，待研究
+https://lg.as204254.net/summary/fra1/ipv6 #tracerote无响应
+http://noc.zcenter.pl
+http://lg.abica.co.uk/
+https://lg.as206479.net/
+http://lg.fratec.net/
+http://lg.scrio.com.br/ #tracerote无响应
+http://dns1.byteweb.com.br/lg/
+http://lg.gtitelecom.net.br/summary/lg/ipv4 #tracerote无响应
+https://lg.huge-networks.com #没有traceroute使能
+http://lg.brascom.net.br/
+http://lg.web4africa.net/
+https://lg.as328112.net/
+http://lg.allpointsbroadband.com/
+http://lg.la1.hostbrew.com/
+http://lg.cloudsingularity.net
+https://www.prolixium.com/lg
